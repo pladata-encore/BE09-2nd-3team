@@ -9,8 +9,14 @@
 ![image](https://github.com/user-attachments/assets/9f64d42e-72ff-4718-b50a-e887478f968e)
 
 
+---
 
-### 완성 프로젝트 URL⬇️
+# 팀원 구성
+
+| 박경빈 | 배기열 | 이석진 | 이나영 | 임나연 |
+|--------|--------|--------|--------|--------|
+|![박경빈](https://avatars.githubusercontent.com/u/124248292?v=4)|![배기열](https://avatars.githubusercontent.com/u/203373298?v=4)|![이석진](https://avatars.githubusercontent.com/u/23104248?v=4)|![이나영](https://avatars.githubusercontent.com/u/203925759?v=4)|![임나연](https://avatars.githubusercontent.com/u/83941568?v=4)|
+|[GitHub](https://github.com/binipk)| [GitHub](https://github.com/GIYEOL1117) | [GitHub](https://github.com/Othereum) | [GitHub](https://github.com/NYoungLEE) | [GitHub](https://github.com/nyaeon)  |
 
 ---
 # 1. 프로젝트 소개
@@ -155,71 +161,3 @@
 ---
 # 폴더 구조
 ![image](https://github.com/user-attachments/assets/43fc80fc-9d93-4015-885c-0aa47585beda)
----
-# 마일스톤 & 이슈 관리### Brand
-
-| ID | Function Description | Note |
-| --- | --- | --- |
-| `BF1` | 서브 내비게이션 클릭 시 해당 섹션(설빙 스토리 / 연혁 / BI 화면)으로 앵커 이동할 수 있다. |  |
-| `BF2` | 설빙 스토리 페이지에 텍스트와 이미지가 정상적으로 표시된다. |  |
-| `BF3` | 연혁 페이지에서 연도별 상세 텍스트가 정상적으로 표시된다. |  |
-| `BF4` | BI 페이지에 LOGO 및 SYMBOL 동영상 파일이 업로드 되어 페이지 내에서 원할히 재생 가능해야 한다. |  |
-
-### News 기능
-
-| ID | Function Description | Note |
-| --- | --- | --- |
-| D1 | 공지 사항에서 정보 제공 | 사용자가 원하는 목록 클릭 시 해당 정보 제공 |
-| D2 | 질문 타이틀 내용 클릭 시 상세 정보 제공 | FAQ에서 토글 클릭 시 해당 질문 사항의 상세 내용 열람 가능 |
-| D3 | 메인 페이지에서 원하는 기능 선택 가능 | 메인 페이지를 통해 공지사항,문의 사항 등 원하는 정보를 선택하여 열람 가능 |
-
-## 비기능 요구사항
-### Footer 비기능
-
-| ID | Function Description | Note |
-| --- | --- | --- |
-| NF1 | 배경색은 #d6d6d6으로 지정한다. |  |
-| NF2 | 푸터 전체 이미지가 PC와 모바일 화면 크기에 맞게 적절히 크기 조절 및 반응형으로 표시되어야 한다. | CSS 미디어쿼리 및 이미지 크기 조절 적용 |
-
-### Brand 비기능
-
-| ID | Function Description | Note |
-| --- | --- | --- |
-| BNF1 | 현재 선택된 내비게이션 항목은 시각적으로 강조되어 사용자에게 활성화 상태임을 명확히 보여준다. |  |
-| BNF2 | Brand 페이지에서 사용자가 스크롤 할 때 텍스트와 이미지는 fade-in과 slide-in 애니메이션 효과를 갖는다. 애니메이션은 지연을 두어 순차적으로 표시된다. |  |
-| BNF3 | 연혁 페이지에 각 연도별 텍스트 및 관련 요소는 내비게이션 탭 클릭 시 slide-in 애니메이션이 적용된다. |  |
-
-### Menu 비기능
-
-| ID | Function Description | Note |
-| --- | --- | --- |
-| `MNF1` | “Menu” 페이지 내 카테고리는 페이지 최상단에 `center` 위치하여 UX를 향상시킬 수 있도록 한다. |  |
-| `MNF2` | “Menu” 페이지 내 카테고리 선택 시 `Bold` 효과를 주어 선택된 것으로 보이도록 해야함 |  |
-| `MNF3` | “Menu” 페이지에서 신규 메뉴는 이미지 좌상단에 `“NEW”` 표시를 하여 UX를 향상시킬 수 있도록 한다. | `“NEW”` 표시는 `<img>` 태그를 사용하는 것으로 함 |
-| `MNF4` | “Menu” 페이지에서 시그니처 메뉴는 이미지 좌상단에 `“SIGNATURE”` 표시를 하여 UX를 향상시킬 수 있도록 한다. | `“SIGNATURE”` 표시는 `<img>` 태그를 사용하는 것으로 함 |
-| `MNF5` | “Menu” 페이지에서 각 메뉴에 마우스 오버 시 `“Hover”` 효과를 추가하여 UX를 향상시키도록 한다. |  |
-
-### News 비기능
-
-| ID | Function Description | Note |
-| --- | --- | --- |
-| D1 | 버튼 클릭 시 해당 버튼에 맞는 정보 제공 | ex) 공지사항 클릭 > 공지사항으로 이동 |
-| D2 | 고객 센터 내용 작성 시 확인 메시지 출력 | 정보 일치 시 :  확인 되었습니다 / 정보 불일치 : 없는 내용입니다 |
-| D3 | 온라인 상담 내용 작성 완료 시 확인 메시지 출력 | 완료 시 : 정보가 저장되었습니다 |
-| D4 | 성명,연락처,비밀번호 같은 필수 데이터를 입력하지 않으면 다음으로 넘어갈 수 없고, 누락된 정보 알림 메시지 출력 | 정보 누락 시 : 필수 입력 사항을 입력하지 않으셨어요 |
-| D5 | 카테고리 선택 | 문의 유형 : 이물질 or 레시피 / 이용 방법 : 배달 or 포장 / 상담 분류:  온라인 or 매장 서비스 |
-| D6 | 돋보기 아이콘 클릭 | 매장 위치 조회 및 선택 (삭제될 수도 있음 |
-
----
-# 테스트 케이스 및 결과서
-![image](https://github.com/user-attachments/assets/0d70db52-f411-4c13-9d0c-42e52b9a3fc0)
-![image](https://github.com/user-attachments/assets/53780817-863c-4f4f-8ee0-77a4fc2c680a)
-
-
----
-# 폴더 구조
-![image](https://github.com/user-attachments/assets/43fc80fc-9d93-4015-885c-0aa47585beda)
-
----
-# 마일스톤 & 이슈 관리
-https://github.com/backend20250319/BE09-2nd-3team/issues
