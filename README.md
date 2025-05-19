@@ -1,9 +1,8 @@
 # 설빙 클론 프로젝트 보고서
---- 
 ![image](https://github.com/user-attachments/assets/1ead360e-ba8a-49e7-8c9d-95b4ad0edc9f)
 
 ## 1. 기획서
----
+
 ### 
 ### 프로젝트 개요
 학습 목적에 맞게 설빙 페이지를 재설계 및 클론
