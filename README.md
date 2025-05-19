@@ -1,6 +1,16 @@
-# 설빙 클론 프로젝트 보고서
-![image](https://github.com/user-attachments/assets/1ead360e-ba8a-49e7-8c9d-95b4ad0edc9f)
-### 완성 프로젝트 URL
+# 🍧설빙 클론 프로젝트 보고서
+<b>Main 페이지</b>
+![image](https://github.com/user-attachments/assets/08eb221a-5dd8-43b0-8078-34c3728b3833)
+<b>Brand 페이지</b>
+![image](https://github.com/user-attachments/assets/f303ee5d-15a1-4147-a275-c470f73903b7)
+<b>Menu 페이지</b>
+![image](https://github.com/user-attachments/assets/c9be59c7-c5db-4d7a-8b2d-3fe7416036bf)
+<b>Menu 상세페이지</b>
+![image](https://github.com/user-attachments/assets/9f64d42e-72ff-4718-b50a-e887478f968e)
+
+
+
+### 완성 프로젝트 URL⬇️
 
 ---
 # 1. 프로젝트 소개
@@ -10,7 +20,7 @@
 <br>
 ## 역할 분담 및 기능 구성
 |페이지|담당자|주요 기능|
-|메인페이지|이석진|메인 배너, 메뉴 섹션, SNS, 눈꽃 효과|
+|메인페이지|이석진|메인 배너, 메뉴 섹션, SNS|
 |브랜드 페이지|이나영|설빙 스토리, 연혁 BI 소개|
 |메뉴 페이지|박경빈, 임나연|전체 메뉴, 카테고리별 메뉴 (설빙, 사이드, 음료)|
 |뉴스 & 고객센터|배기열, 이나영|공지사항, FAQ, 온라인 고객센터 상담 내역|
@@ -136,5 +146,10 @@
 
 ---
 # 테스트 케이스 및 결과서
+![image](https://github.com/user-attachments/assets/0d70db52-f411-4c13-9d0c-42e52b9a3fc0)
+![image](https://github.com/user-attachments/assets/53780817-863c-4f4f-8ee0-77a4fc2c680a)
 
+
+---
 # 폴더 구조
+![image](https://github.com/user-attachments/assets/43fc80fc-9d93-4015-885c-0aa47585beda)
