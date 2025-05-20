@@ -170,7 +170,7 @@ https://sulbing-clone.vercel.app/
 # 💬 5. 스크럼 회의록
 
 <details>
-  <summary>2025/05/15</summary>
+  <summary><b>2025/05/15</b>b></summary>
   
   ## Agenda:
   1. 클론할 사이트 선택
