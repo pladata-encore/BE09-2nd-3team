@@ -1,0 +1,94 @@
+.container {
+  background: #fffef0;
+}
+
+.contentArea {
+  width: 1690px;
+  margin: 0 auto;
+  padding: 105px 0;
+}
+
+.title {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.storeArea {
+  flex-direction: row;
+  display: flex;
+  height: 732px;
+  justify-content: space-between;
+}
+
+.storeArea .searchArea {
+  background: #f0f0f0;
+  border-radius: 20px;
+  width: 520px;
+  padding: 59px 52px;
+}
+
+.storeArea .searchArea .searchInput {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 18px;
+  flex: 1;
+}
+
+.storeArea .searchArea .searchInput select {
+  height: 55px;
+  border-radius: 9px;
+  background: #FFFFFF;
+  padding: 0 20px;
+  font-size: 18px;
+  color: #4b4b4b;
+  border: 0;
+  flex: 1;
+}
+
+.storeArea .searchArea .searchInput input {
+  height: 55px;
+  border-radius: 9px;
+  background: #FFFFFF;
+  padding: 0 20px;
+  font-size: 18px;
+  color: #4b4b4b;
+  border: 0;
+  width: 100%;
+}
+
+.storeArea .searchArea .btnArea {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.storeArea .searchArea .btnArea .btnSearch {
+  height: 49px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  color: #FFFFFF;
+  background: #914643;
+  width: 125px;
+  border-radius: 49px;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.storeArea .searchArea .btnArea .btnSearch:active {
+  transform: none;
+}
+
+.storeArea .searchArea .searchListArea {
+  border-top: 2px solid #9c9696;
+}
+
+.storeArea .mapArea {
+  width: 1159px;
+  position: relative;
+}
+

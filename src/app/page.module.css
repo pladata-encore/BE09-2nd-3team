@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+}
+
+.container .mainBanner {
+  overflow: hidden;
+  text-indent: -99999px;
+  flex: 1;
+  display: block;
+  height: 200px;
+}
+
+.container .store {
+  background: #873635 url("/images/pc/main_banner_01.png") no-repeat right top;
+}
+
+.container .startup {
+  background: #fff0c7 url("/images/pc/main_banner_02.png") no-repeat right top;
+}

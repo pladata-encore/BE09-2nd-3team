@@ -1,0 +1,33 @@
+.container.brand {
+  background: #fffef0;
+}
+
+.container .contentArea {
+  width: 1380px;
+  margin: 0 auto;
+  padding: 105px 0;
+}
+
+.privacyWrap {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.privacyWrap .title {
+  font-family: "Sandoll GyeokdongGL2";
+  font-size: 45px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  color: #42120e;
+}
+
+.privacyWrap .privacyArea {
+  margin-top: 30px;
+  font-size: 22px;
+  line-height: 1.7;
+  color: #121212;
+}
+
+.privacyWrap .privacyArea .stitle {
+  font-weight: bold;
+}

@@ -1,0 +1,315 @@
+/* 기본 스타일 초기화 */
+.container.menuView ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* 애니메이션 키프레임 정의 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFade {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-right-color: transparent;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 전체 레이아웃 */
+.container.menuView {
+  background-color: #873635;
+}
+
+.contentArea {
+  padding: 100px 0;
+  margin: 0;
+  width: 100%;
+  max-width: none;
+}
+
+
+/* 메뉴 뷰 메인 배경 */
+.menuViewArea {
+  display: flex;
+  background: url('/images/menu_view_bg.png') no-repeat left top;
+  background-size: auto 100%;
+}
+
+/* 좌측 슬라이드 영역 */
+.menuSlideArea {
+  width: 195px;
+  flex: none;
+  padding-top: 20px;
+  position: relative;
+}
+
+.menuSlideArea .btnUp,
+.menuSlideArea .btnDown {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.menuSlideArea .btnUp {
+  top: 0;
+}
+
+.menuSlideArea .btnDown {
+  bottom: 0;
+}
+
+.menuSlideArea .btnUp img,
+.menuSlideArea .btnDown img {
+  width: 34px;
+  height: auto;
+}
+
+/* Swiper 슬라이드 설정 */
+.menuSlide {
+  height: 640px;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.menuSlide .swiper-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Subcategory 그룹 스타일 */
+.subcategory-group {
+  position: relative;
+  padding-top: 40px;
+}
+
+.subcategory-group::before {
+  content: attr(data-subcategory);
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: #f8e5b1;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Sandoll GyeokdongGL2", sans-serif;
+}
+
+.menuSlide .swiper-slide {
+  width: 195px;
+  height: 160px;
+  text-align: center;
+}
+
+.menuSlide .swiper-slide button {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.menuSlide .swiper-slide button.on::after {
+  content: "";
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -45%);
+  background-color: #f36f2c;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.menuSlide .swiper-slide button img {
+  position: relative;
+  z-index: 2;
+  width: 165px;
+  height: auto;
+}
+
+/* 오른쪽 큰 이미지 + 설명 */
+.menuSlideBig {
+  flex: 1;
+  display: flex;
+  height: 778px;
+}
+
+/* 왼쪽 큰 이미지 영역 */
+.menuSlideBig .imgArea {
+  width: 990px;
+  overflow: hidden;
+}
+
+.menuSlideBig .imgArea img {
+  width: auto;
+  height: 778px;
+  object-fit: cover;
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* 오른쪽 텍스트 영역 */
+.menuSlideBig .textArea {
+  position: relative;
+  width: 640px;
+  padding-top: 60px;
+  letter-spacing: -0.05em;
+  color: #fffaf2;
+}
+
+.menuSlideBig .textArea .productTitle {
+  font-family: "Sandoll GyeokdongGL2", sans-serif;
+  font-size: 61px;
+  font-weight: bold;
+  color: #f8e5b1;
+  margin-bottom: 29px;
+  opacity: 0;
+  animation: slideInFade 0.4s ease-out forwards;
+  animation-delay: 0.1s;
+}
+
+/* 재료 정보 영역 */
+.menuSlideBig .textArea .thumb {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+  margin: 30px 0;
+}
+
+.menuSlideBig .textArea .thumb li {
+  text-align: center;
+  width: 98px;
+  opacity: 0;
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+.menuSlideBig .textArea .thumb li:nth-child(1) { animation-delay: 0.1s; }
+.menuSlideBig .textArea .thumb li:nth-child(2) { animation-delay: 0.2s; }
+.menuSlideBig .textArea .thumb li:nth-child(3) { animation-delay: 0.3s; }
+.menuSlideBig .textArea .thumb li:nth-child(4) { animation-delay: 0.4s; }
+
+.menuSlideBig .textArea .thumb li .img {
+  width: 98px;
+  height: 98px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menuSlideBig .textArea .thumb li .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.menuSlideBig .textArea .thumb li .txt {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: "Pretendard Variable", sans-serif;
+  text-align: center;
+  word-break: keep-all;
+  line-height: 1.3;
+}
+
+.menuSlideBig .textArea .subTitle {
+  margin-top: 54px;
+  font-size: 27px;
+  font-weight: 700;
+  font-family: "Sandoll GyeokdongGL2", sans-serif;
+  opacity: 0;
+  animation: fadeInUp 0.3s ease-out 0.5s forwards;
+}
+
+.menuSlideBig .textArea .desc {
+  margin-top: 20px;
+  font-size: 16px;
+  height: 220px;
+  line-height: 1.6;
+}
+
+.menuSlideBig .textArea .desc p {
+  opacity: 0;
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+.menuSlideBig .textArea .desc p:nth-child(1) { animation-delay: 0.6s; }
+.menuSlideBig .textArea .desc p:nth-child(2) { animation-delay: 0.7s; }
+.menuSlideBig .textArea .desc p:nth-child(3) { animation-delay: 0.8s; }
+.menuSlideBig .textArea .desc p:nth-child(4) { animation-delay: 0.9s; }
+.menuSlideBig .textArea .desc p:nth-child(5) { animation-delay: 1.0s; }
+
+/* 정보 영역 */
+.menuSlideBig .textArea .infomation {
+  position: absolute;
+  left: 0;
+  bottom: 35px;
+  width: 100%;
+  border-top: 2px solid #bf918d;
+  padding-top: 13px;
+  list-style: none;
+  margin: 0;
+}
+
+.menuSlideBig .textArea .infomation li {
+  color: #c6908c;
+  margin-bottom: 8px;
+  font-size: 18px;
+  display: flex;
+}
+
+.menuSlideBig .textArea .infomation li .title {
+  flex: none;
+  font-weight: bold;
+  margin-right: 18px;
+}
+
+.menuSlideBig .textArea .infomation li .con {
+  flex: 1;
+}

@@ -1,0 +1,131 @@
+.footer {
+  width: 100%;
+  background: #d6d6d6;
+  min-width: 1600px;
+  overflow: hidden;
+  width: 100%;
+  background: #d6d6d6;
+  min-width: 1600px;
+  overflow: hidden;
+  position: relative;
+}
+
+.mobileOnly {
+  display: none;
+}
+.mobileOnly {
+  display: none;
+}
+.linkOverlay {
+  position: relative;
+  width: 100%;
+  height: 257px;
+}
+
+.linkOverlay a {
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.link1 {
+  top: 67px;
+  left: 374px;
+  width: 57px;
+  height: 15px;
+}
+.link2 {
+  top: 67px;
+  left: 505px;
+  width: 117px;
+  height: 15px;
+}
+.link3 {
+  top: 67px;
+  left: 695px;
+  width: 132px;
+  height: 15px;
+}
+.link4 {
+  top: 67px;
+  left: 905px;
+  width: 57px;
+  height: 15px;
+}
+
+.link5 {
+  top: 67px; /* 원하는 위치로 수정 */
+  left: 1038px; /* 원하는 위치로 수정 */
+  width: 125px;
+  height: 20px;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    width: 100%;
+    height: auto;
+  }
+
+  .linkOverlay {
+    display: none;
+  }
+
+  .pcOnly {
+    display: none;
+  }
+
+  .mobileOnly {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .mobileOnly img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .mobileLinkOverlay {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+  }
+
+  .mobileLinkOverlay a {
+    position: absolute;
+    display: block;
+    z-index: 10;
+  }
+
+  .mobileLink1 {
+    top: 110px;
+    left: 55px;
+    width: 40px;
+    height: 10px;
+  }
+  .mobileLink2 {
+    top: 110px;
+    left: 133px;
+    width: 81px;
+    height: 10px;
+  }
+  .mobileLink3 {
+    top: 110px;
+    left: 247px;
+    width: 92px;
+    height: 10px;
+  }
+  .mobileLink4 {
+    top: 110px;
+    left: 370px;
+    width: 40px;
+    height: 10px;
+  }
+}

@@ -1,0 +1,26 @@
+@import url("https://use.typekit.net/pxi1xil.css");
+@import "@/styles/style.css";
+@import "@/styles/modify.css";
+@import "@/styles/swiper-bundle.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+a:link, a:visited, a:hover, a:active, a:focus {
+  text-decoration: none;
+}
+
+.wrap {
+  min-width: 1600px;
+}

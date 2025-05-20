@@ -1,0 +1,1525 @@
+[
+  {
+    "id": 1,
+    "name": "자.망.코.설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/자.망.코.설빙.png",
+    "image": "/images/product/자.망.코.설빙big.png",
+    "ingredients": [
+      {
+        "name": "애플망고",
+        "image": "/images/ingredient/애플망고.png"
+      },
+      {
+        "name": "자몽과육",
+        "image": "/images/ingredient/자몽과육.png"
+      },
+      {
+        "name": "코코넛펄",
+        "image": "/images/ingredient/코코넛펄.png"
+      },
+      {
+        "name": "망고요거트 아이스크림",
+        "image": "/images/ingredient/망고요거트아이스크림.png"
+      }
+    ],
+    "description": "설빙의 여름을 책임질 자.망.코.설빙이 찾아왔어요.\n달콤한 망고와 상큼한 자몽, 부드러운 망고 요거트 아이스크림 위에 쫀득쫀득한 코코넛 펄까지!\n열대섬으로 이동한 듯 입안에서 햇살과 파도가 펼쳐지는 기분이에요!\n자.망.코.설빙의 청량함을 만끽할 Flavor Trip, 함께할까요?",
+    "subTitle": "Welcome To 자.망.코. ISLAND",
+    "nutrition": "열량(Kcal) 715 | 당류(g) 93 | 단백질(g) 10 | 포화지방(g) 14 | 나트륨(mg) 150",
+    "allergy": "우유, 달걀, 대두"
+  },
+
+  {
+    "id": 2,
+    "name": "잔망루피낭만딸기설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/잔망루피낭만딸기설빙.png",
+    "image": "/images/product/잔망루피낭만딸기설빙big.png",
+    "ingredients": [
+      {
+        "name": "생딸기",
+        "image": "/images/ingredient/생딸기.png"
+      },
+      {
+        "name": "피스타치오 스프레드",
+        "image": "/images/ingredient/피스타치오스프레드.png"
+      },
+      {
+        "name": "라즈베리퓨레",
+        "image": "/images/ingredient/라즈베리퓨레.png"
+      },
+      {
+        "name": "크림샌드분태",
+        "image": "/images/ingredient/크림샌드분태.png"
+      }
+    ],
+    "description": "과즙이 팡팡 터지는 생딸기에\n피스타치오 스프레드를 두르고 잘게 자른 피스타치오를 올려, 고소한 맛을 선사해요!\n상큼한 라즈베리 퓨레는 축 처진 기분을 끌어올리죠.\n사랑을 속삭이듯 부드럽게 입안을 감싸는 맛으로,\n잔망루피와 함께 낭만 있는 하루를 만끽하세요!",
+    "subTitle": "\"해-삐\"한 잔망루피의 손길이 더해진 딸기설빙",
+    "nutrition": "열량(Kcal) 930 | 당류(g) 108 | 단백질(g) 15 | 포화지방(g) 22 | 나트륨(mg) 220",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 3,
+    "name": "잔망루피낭만초코설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail":"/images/special/잔망루피낭만초코설빙.png",
+    "image": "/images/product/잔망루피낭만초코설빙big.png",
+    "ingredients": [
+      {
+        "name": "피스타치오 스프레드",
+        "image": "/images/ingredient/피스타치오스프레드.png"
+      },
+      {
+        "name": "카다이프",
+        "image": "/images/ingredient/카다이프.png"
+      },
+      {
+        "name": "초코슬라이스",
+        "image": "/images/ingredient/초코슬라이스.png"
+      },
+      {
+        "name": "초코소스",
+        "image": "/images/ingredient/초코소스.png"
+      }
+    ],
+    "description": "설빙만의 황금 비율로 제조한 두바이 스타일 리얼 카다이프에\n초코볼, 초코시럽까지! 제대로 초코 플렉스~\n거기에 고소한 피스타치오 분태와 피스타치오 스프레드 맛으로\n입안을 쉴 새 없이 즐겁게 하죠.\n잔망루피와 함께 낭만 있는 하루를 만끽하세요!",
+    "subTitle": "오늘의 플렉스는 잔망루피의 낭만 가득한 초코설빙으로!",
+    "nutrition": "열량(Kcal) 1260 | 당류(g) 95 | 단백질(g) 19 | 포화지방(g) 36 | 나트륨(mg) 270",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 4,
+    "name": "생딸기설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/생딸기설빙.png",
+    "image": "/images/product/생딸기설빙big.png",
+    "ingredients": [
+      {
+        "name": "생딸기",
+        "image": "/images/ingredient/생딸기.png"
+      },
+      {
+        "name": "찹쌀떡",
+        "image": "/images/ingredient/찹쌀떡.png"
+      },
+      {
+        "name": "딸기베이스",
+        "image": "/images/ingredient/딸기베이스.png"
+      }
+    ],
+    "description": "겨울 시즌이 되면 어김없이 등장하는 과일나라의 인기 스타, 생딸기!\n추운 겨울이 기대되는 이유는 바로 생딸기설빙 시즌이 돌아오기 때문이죠!\n설빙의 눈꽃우유와 연유를 만난 딸기의 유혹에 한 번 빠지면\n사계절 내내 겨울을 기다리게 될지도 몰라요.",
+    "subTitle": "겨울의 시작을 알리는 새빨간 딸기의 유혹",
+    "nutrition": "열량(Kcal) 780 | 당류(g) 93 | 단백질(g) 17 | 포화지방(g) 11 | 나트륨(mg) 400",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 5,
+    "name": "순수요거생딸기설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail":"/images/special/순수요거생딸기설빙.png",
+    "image": "/images/product/순수요거생딸기설빙big.png",
+    "ingredients": [
+      {
+        "name": "생딸기",
+        "image": "/images/ingredient/생딸기.png"
+      },
+      {
+        "name": "요거트 아이스크림",
+        "image": "/images/ingredient/요거트아이스크림.png"
+      },
+      {
+        "name": "딸기베이스",
+        "image": "/images/ingredient/딸기베이스.png"
+      }
+    ],
+    "description": "새콤달콤한 요거트 아이스크림이 부드럽게 딸기를 감싸 안아주면?\n아이스크림 속에 녹아내리는 딸기의 수줍음이 입안 가득 퍼질 거예요.\n소울메이트를 만난 딸기의 설렘처럼,\n당신에게도 두근거리는 계절이 시작될지 몰라요.",
+    "subTitle": "딸기가 만난 소울메이트를 소개합니다",
+    "nutrition": "열량(Kcal) 930 | 당류(g) 128 | 단백질(g) 16 | 포화지방(g) 18 | 나트륨(mg) 250",
+    "allergy": "우유, 대두"
+  },
+  {
+    "id": 6,
+    "name": "생딸기트리설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/생딸기트리설빙.png",
+    "image": "/images/product/생딸기트리설빙big.png",
+    "ingredients": [
+      {
+        "name": "생딸기",
+        "image": "/images/ingredient/생딸기.png"
+      },
+      {
+        "name": "녹차아이스크림",
+        "image": "/images/ingredient/녹차아이스크림.png"
+      },
+      {
+        "name": "딸기베이스",
+        "image": "/images/ingredient/딸기베이스.png"
+      }
+    ],
+    "description": "크리스마스 트리 같은 초록빛 녹차 아이스크림이 주위로\n빨간 생딸기가 옹기종기 모였어요!\n바삭 마시멜로우는 오너먼트처럼 대롱대롱~\n설빙 한 그릇에 담긴 크리스마스 트리를 즐겨보세요.\n탱글탱글한 생딸기와 달콤한 연유, 진한 녹차 아이스크림과 함께라면\n매일 매일 크리스마스처럼 즐거울 거예요!",
+    "subTitle": "어제도 오늘도 내일도 크리스마스하세요~!",
+    "nutrition": "열량(Kcal) 1040 | 당류(g) 129 | 단백질(g) 16 | 포화지방(g) 36 | 나트륨(mg) 300",
+    "allergy": "우유, 대두"
+  },
+  {
+    "id": 7,
+    "name": "생딸기요거초코볼설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/생딸기요거초코볼설빙.png",
+    "image": "/images/product/생딸기요거초코볼설빙big.png",
+    "ingredients": [
+      {
+        "name": "생딸기",
+        "image": "/images/ingredient/생딸기.png"
+      },
+      {
+        "name": "큐브치즈케이크",
+        "image": "/images/ingredient/큐브치즈케이크.png"
+      },
+      {
+        "name": "요거트아이스크림",
+        "image": "/images/ingredient/요거트아이스크림.png"
+      },
+      {
+        "name": "초코소스",
+        "image": "/images/ingredient/초코소스.png"
+      }
+    ],
+    "description": "새콤달콤 딸기와 부드러운 큐브치즈케이크, 상큼한 요거트 아이스크림과 오독오독 초코코팅까지!\n요거트 아이스크림 위 초코코팅을 숟가락으로 톡톡 깨서 한입 가득 먹으면\n질릴 틈 없는 다채로운 맛으로 마지막 한 숟가락이 아쉬울걸요!",
+    "subTitle": "함께 먹으면 더 맛있는 조합을 한 그릇 가득 담았어요!",
+    "nutrition": "열량(Kcal) 1065 | 당류(g) 135 | 단백질(g) 15 | 포화지방(g) 28 | 나트륨(mg) 610",
+    "allergy": "달걀, 우유, 대두, 밀"
+  },
+  {
+    "id": 8,
+    "name": "하겐다즈딸기설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/하겐다즈딸기설빙.png",
+    "image": "/images/product/하겐다즈딸기설빙big.png",
+    "ingredients": [
+      {
+        "name": "생딸기",
+        "image": "/images/ingredient/생딸기.png"
+      },
+      {
+        "name": "하겐다즈딸기 아이스크림",
+        "image": "/images/ingredient/하겐다즈딸기아이스크림.png"
+      },
+      {
+        "name": "치즈케이크",
+        "image": "/images/ingredient/치즈케이크.png"
+      },
+      {
+        "name": "생크림",
+        "image": "/images/ingredient/생크림.png"
+      }
+    ],
+    "description": "프리미엄 하겐다즈 스트로베리 아이스크림과\n신선한 생딸기의 만남으로 탄생한 럭셔리 설빙!\n달콤한 딸기시럽과 함께 즐기는 프리미엄 디저트입니다.",
+    "subTitle": "프리미엄 하겐다즈와 설빙의 특별한 만남",
+    "nutrition": "열량(Kcal) 875 | 당류(g) 105 | 단백질(g) 15 | 포화지방(g) 23 | 나트륨(mg) 500",
+    "allergy": "달걀, 우유, 대두, 밀"
+  },
+  {
+    "id": 9,
+    "name": "ABC초코쿠키설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/ABC초코쿠키설빙.png",
+    "image": "/images/product/ABC초코쿠키설빙big.png",
+    "ingredients": [
+      {
+        "name": "ABC초코쿠키",
+        "image": "/images/ingredient/ABC초코쿠키.png"
+      },
+      {
+        "name": "바닐라 아이스크림",
+        "image": "/images/ingredient/바닐라아이스크림.png"
+      },
+      {
+        "name": "초코링",
+        "image": "/images/ingredient/초코링.png"
+      },
+      {
+        "name": "초코슬라이스",
+        "image": "/images/ingredient/초코슬라이스.png"
+      }
+    ],
+    "description": "달콤한 ABC초코쿠키가 설빙과 만나면?\n차원이 다른 달콤한 맛이 와르르 쏟아져요~\nABC초코쿠키, 초코링, 초코 슬라이스, 카카오 파우더, 초코 시럽까지!\n무려 5가지 초코 토핑이 모여 눈과 입이 즐거운 초코 축제를 즐겨요~",
+    "subTitle": "설빙과 ABC초코쿠키가 만나면? 더 진하고, 더 달콤하게!",
+    "nutrition": "열량(Kcal) 1285 | 당류(g) 114 | 단백질(g) 19 | 포화지방(g) 32 | 나트륨(mg) 450",
+    "allergy": "달걀, 우유, 대두, 밀"
+  },
+  {
+    "id": 10,
+    "name": "ABC초코쿠키녹차설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/ABC초코쿠키녹차설빙.png",
+    "image": "/images/product/ABC초코쿠키녹차설빙big.png",
+    "ingredients": [
+      {
+        "name": "ABC초코쿠키",
+        "image": "/images/ingredient/ABC초코쿠키.png"
+      },
+      {
+        "name": "녹차아이스크림",
+        "image": "/images/ingredient/녹차아이스크림.png"
+      },
+      {
+        "name": "초코링",
+        "image": "/images/ingredient/초코링.png"
+      },
+      {
+        "name": "초코슬라이스",
+        "image": "/images/ingredient/초코슬라이스.png"
+      }
+    ],
+    "description": "달콤한 ABC초코쿠키가 설빙과 만나면?\n달콤한 초콜릿에 쌉싸름한 녹차 아이스크림을 더한 진리의 '맛없없' 조합이 완성돼요.\nABC초코쿠키, 초코링, 초코 슬라이스, 카카오 파우더, 초코 시럽까지!\n무려 5가지 초코 토핑이 모여 눈과 입이 즐거운 초코 축제를 즐겨요~",
+    "subTitle": "설빙과 ABC초코쿠키가 만나면? 더 진하고, 더 달콤하게!",
+    "nutrition": "열량(Kcal) 1260 | 당류(g) 121 | 단백질(g) 20 | 포화지방(g) 34 | 나트륨(mg) 440",
+    "allergy": "달걀, 우유, 대두, 밀"
+  },
+  {
+    "id": 11,
+    "name": "스윗캔디구슬설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/스윗캔디구슬설빙.png",
+    "image": "/images/product/스윗캔디구슬설빙big.png",
+    "ingredients": [
+      {
+        "name": "캔디프로스구슬 아이스크림",
+        "image": "/images/ingredient/캔디프로스구슬아이스크림.png"
+      },
+      {
+        "name": "건조마시멜로우",
+        "image": "/images/ingredient/건조마시멜로우.png"
+      },
+      {
+        "name": "초코링",
+        "image": "/images/ingredient/초코링.png"
+      },
+      {
+        "name": "딸기베이스",
+        "image": "/images/ingredient/딸기베이스.png"
+      }
+    ],
+    "description": "입안에서 사르르 녹아내리는 알록달록 구슬 아이스크림과\n바삭 마시멜로우와 오도독 초코링, 바닐라 아이스크림 위에 새콤달콤 딸기 베이스까지~\n눈과 입이 즐거운 화려한 디저트 파티가 열리는 구슬랜드로 떠나요!",
+    "subTitle": "환상의 구슬랜드에 오신 여러분을 환영합니다",
+    "nutrition": "열량(Kcal) 835 | 당류(g) 97 | 단백질(g) 13 | 포화지방(g) 23 | 나트륨(mg) 330",
+    "allergy": "돼지고기, 우유, 밀, 대두"
+  },
+  {
+    "id": 12,
+    "name": "초코바닐라구슬설빙",
+    "category": "설빙",
+    "subcategory": "SPECIAL",
+    "thumbnail": "/images/special/초코바닐라구슬설빙.png",
+    "image": "/images/product/초코바닐라구슬설빙big.png",
+    "ingredients": [
+      {
+        "name": "초코바닐라구슬아이스크림",
+        "image": "/images/ingredient/초코바닐라구슬아이스크림.png"
+      },
+      {
+        "name": "건조마시멜로우",
+        "image": "/images/ingredient/건조마시멜로우.png"
+      },
+      {
+        "name": "초코링",
+        "image": "/images/ingredient/초코링.png"
+      },
+      {
+        "name": "초코소스",
+        "image": "/images/ingredient/초코소스.png"
+      }
+    ],
+    "description": "구슬랜드의 시그니처 스윗캔디구슬설빙에 대적하는 새로운 맛!\n초코바닐라 구슬 아이스크림이 와르르 쏟아지는 초코바닐라구슬설빙이에요.\n바삭 마시멜로우와 오도독 초코링, 바닐라 아이스크림 위에 달콤한 초코소스까지~\n남녀노소 모두가 좋아하는 슈퍼스타의 맛, 궁금하지 않으신가요?",
+    "subTitle": "지금 환상의 구슬랜드에서 가장 핫한 슈퍼 스타",
+    "nutrition": "열량(Kcal) 1105 | 당류(g) 95 | 단백질(g) 17 | 포화지방(g) 29 | 나트륨(mg) 330",
+    "allergy": "돼지고기, 우유, 밀, 대두"
+  },
+  {
+    "id": 13,
+    "name": "인절미설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/인절미설빙.png",
+    "image": "/images/product/인절미설빙big.png",
+    "ingredients": [
+      {
+        "name": "콩가루",
+        "image": "/images/ingredient/콩가루.png"
+      },
+      {
+        "name": "인절미떡",
+        "image": "/images/ingredient/인절미떡.png"
+      },
+      {
+        "name": "아몬드 슬라이스",
+        "image": "/images/ingredient/아몬드슬라이스.png"
+      }
+    ],
+    "description": "누군가 설빙의 근본을 묻거든 인절미설빙을!\n사르르 녹아내리는 우유 눈꽃과 콩가루, 아몬드, 쫄깃한 인절미를 더한 최초의 설빙이죠.\n설빙의 근본을 이루는 맛으로, 남녀노소 누구나 즐기기 좋아요.\n한 번 빠지면 헤어 나올 수 없는 인절미빙수의 매력을 느껴보세요!",
+    "subTitle": "우유 눈꽃 위에 쌓인 인절미 가루의 고소한 행복, 설빙의 시그니처!",
+    "nutrition": "열량(Kcal) 510 | 당류(g) 47 | 단백질(g) 20 | 포화지방(g) 10 | 나트륨(mg) 220",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 14,
+    "name": "팥인절미설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/팥인절미설빙.png",
+    "image": "/images/product/팥인절미설빙big.png",
+    "ingredients": [
+      {
+        "name": "콩가루",
+        "image": "/images/ingredient/콩가루.png"
+      },
+      {
+        "name": "빙수팥",
+        "image": "/images/ingredient/빙수팥.png"
+      },
+      {
+        "name": "인절미떡",
+        "image": "/images/ingredient/인절미떡.png"
+      }
+    ],
+    "description": "달달하고 오동통한 통단팥과 부드러운 인절미설빙이\n익숙한 듯 색다른 부드러움을 선사합니다.\n사르르 녹아내리는 눈꽃 우유와 통단팥 위로\n쫀득쫀득 씹히는 인절미의 식감이 지루할 틈 없이 즐거운 순간을 선사해요.",
+    "subTitle": "인절미설빙에 달콤한 팥을 더하면? 더 맛있지!",
+    "nutrition": "열량(Kcal) 710 | 당류(g) 76 | 단백질(g) 26 | 포화지방(g) 14 | 나트륨(mg) 330",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 15,
+    "name": "인절미아이스크림설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/인절미아이스크림설빙.png",
+    "image": "/images/product/인절미아이스크림설빙big.png",
+    "ingredients": [
+      {
+        "name": "콩가루",
+        "image": "/images/ingredient/콩가루.png"
+      },
+      {
+        "name": "인절미 아이스크림",
+        "image": "/images/ingredient/인절미아이스크림.png"
+      },
+      {
+        "name": "인절미떡",
+        "image": "/images/ingredient/인절미떡.png"
+      }
+    ],
+    "description": "설빙의 시그니처 '인절미설빙'의 고소한 맛을 두 배로 즐기는 법은?\n잔뜩 뿌려진 콩가루 위로 인절미 아이스크림까지 올라간 인절미아이스크림설빙을 맛보는 것!\n진한 인절미 아이스크림을 함께 먹으면 더욱 달콤하고 고소한 맛이 입안 가득 행복을 선사할 거예요.",
+    "subTitle": "이건 그냥 인절미 빙수가 아니에요",
+    "nutrition": "열량(Kcal) 680 | 당류(g) 65 | 단백질(g) 24 | 포화지방(g) 14 | 나트륨(mg) 265",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 16,
+    "name": "애플망고치즈설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/애플망고치즈설빙.png",
+    "image": "/images/product/애플망고치즈설빙big.png",
+    "ingredients": [
+      {
+        "name": "애플망고",
+        "image": "/images/ingredient/애플망고.png"
+      },
+      {
+        "name": "큐브치즈케이크",
+        "image": "/images/ingredient/큐브치즈케이크.png"
+      },
+      {
+        "name": "요거트 아이스크림",
+        "image": "/images/ingredient/요거트아이스크림.png"
+      }
+    ],
+    "description": "첫 스푼을 떠서 입에 넣는 순간, 신선한 애플망고의 과즙이 입안 가득 퍼집니다\n상큼하고 달콤한 망고의 향기가 당신을 유혹해요.\n그 아래 숨어있는 부드럽고 고소한 큐브치즈케이크의 진한 풍미와\n크리미하면서도 상큼한 요거트 아이스크림으로 달콤하고 설레는 하루를 보내세요.",
+    "subTitle": "모두가 사랑하는 설빙의 베스트셀러",
+    "nutrition": "열량(Kcal) 910 | 당류(g) 116 | 단백질(g) 19 | 포화지방(g) 19 | 나트륨(mg) 350",
+    "allergy": "달걀, 우유, 대두, 밀"
+  },
+  {
+    "id": 17,
+    "name": "초코브라우니설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/초코브라우니설빙.png",
+    "image": "/images/product/초코브라우니설빙big.png",
+    "ingredients": [
+      {
+        "name": "큐브브라우니",
+        "image": "/images/ingredient/큐브브라우니.png"
+      },
+      {
+        "name": "큐브치즈케이크",
+        "image": "/images/ingredient/큐브치즈케이크.png"
+      },
+      {
+        "name": "생크림",
+        "image": "/images/ingredient/생크림.png"
+      },
+      {
+        "name": "초코소스",
+        "image": "/images/ingredient/초코소스.png"
+      }
+    ],
+    "description": "차가운 우유 얼음에 쫀득한 큐브브라우니와 큐브치즈케이크를 넣은,\n익숙하면서 새로운 조합이죠! 빙수 꼭대기를 화려하게 장식한 생크림과\n그 위로 흐르는 초코 소스는 어느 초코 왕국의 화려한 궁전을 연상시켜요.\n시원하고 달콤한 행복을 선사하는 초코 왕국으로 떠나봐요!",
+    "subTitle": "부드럽고 달콤한 케이크와 우유는 언제나 필승 조합",
+    "nutrition": "열량(Kcal) 1160 | 당류(g) 64 | 단백질(g) 21 | 포화지방(g) 26 | 나트륨(mg) 500",
+    "allergy": "달걀, 우유, 대두, 밀, 아황산류"
+  },
+  {
+    "id": 18,
+    "name": "오레오초코몬스터설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/오레오초코몬스터설빙.png",
+    "image": "/images/product/오레오초코몬스터설빙big.png",
+    "ingredients": [
+      {
+        "name": "바닐라 아이스크림",
+        "image": "/images/ingredient/바닐라아이스크림.png"
+      },
+      {
+        "name": "오레오쿠키",
+        "image": "/images/ingredient/오레오쿠키.png"
+      },
+      {
+        "name": "생크림",
+        "image": "/images/ingredient/생크림.png"
+      },
+      {
+        "name": "초코소스",
+        "image": "/images/ingredient/초코소스.png"
+      }
+    ],
+    "description": "바삭한 오레오쿠키와 부드러운 생크림 안에 숨어있던 바닐라 아이스크림까지\n진한 카카오 파우더와 초코 소스를 버무려 한 입만 먹어도 도파민이 폭발할 거예요.\n아무리 우울한 날에도 오레오초코몬스터와 함께라면 정신이 번쩍!\n달콤한 오레오초코몬스터설빙으로 웃음이 끊이지 않는 만남을 완성해 보세요.",
+    "subTitle": "몬스터의 도파민 폭탄을 조심하세요",
+    "nutrition": "열량(Kcal) 1345 | 당류(g) 111 | 단백질(g) 23 | 포화지방(g) 29 | 나트륨(mg) 720",
+    "allergy": "우유, 대두, 밀"
+  },
+  {
+    "id": 19,
+    "name": "순수요거블루베리설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/순수요거블루베리설빙.png",
+    "image": "/images/product/순수요거블루베리설빙big.png",
+    "ingredients": [
+      {
+        "name": "블루베리",
+        "image": "/images/ingredient/블루베리.png"
+      },
+      {
+        "name": "요거트 아이스크림",
+        "image": "/images/ingredient/요거트아이스크림.png"
+      },
+      {
+        "name": "시리얼",
+        "image": "/images/ingredient/시리얼.png"
+      },
+      {
+        "name": "블루베리베이스",
+        "image": "/images/ingredient/블루베리베이스.png"
+      }
+    ],
+    "description": "산처럼 쌓아 올린 요거트 아이스크림 위에 블루베리를 가득 올려 상큼함을 더했습니다.\n새콤달콤 블루베리설빙 위에 보랏빛의 블루베리 베이스가 내리면?\n한 입만으로도 환해지는 마법 같은 일들이 일어날 거예요.",
+    "subTitle": "이 빙수의 새하얀 눈은 요거트 맛이에요",
+    "nutrition": "열량(Kcal) 985 | 당류(g) 149 | 단백질(g) 14 | 포화지방(g) 15 | 나트륨(mg) 420",
+    "allergy": "우유, 대두"
+  },
+  {
+    "id": 20,
+    "name": "티라미수설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/티라미수설빙.png",
+    "image": "/images/product/티라미수설빙big.png",
+    "ingredients": [
+      {
+        "name": "티라미수케이크",
+        "image": "/images/ingredient/티라미수케이크.png"
+      },
+      {
+        "name": "에스프레소",
+        "image": "/images/ingredient/에스프레소.png"
+      },
+      {
+        "name": "초코슬라이스",
+        "image": "/images/ingredient/초코슬라이스.png"
+      },
+      {
+        "name": "카라멜소스",
+        "image": "/images/ingredient/카라멜소스.png"
+      }
+    ],
+    "description": "티라미수 한 조각을 통 크게 올려 부드럽고 진한 달콤함을 완성했어요.\n초코 슬라이스를 뿌리고 카카오 파우더로 마무리한, 쌉싸름한 티라미수설빙!\n갓 추출한 에스프레소를 직접 부어 먹는 재미는 덤이에요~\n깊고 진한 감동이 혀끝에서 은은하게 피어나는 순간을 기대하세요.",
+    "subTitle": "깊게 스미는 진한 달콤함, 티라미수설빙의 황홀한 순간",
+    "nutrition": "열량(Kcal) 985 | 당류(g) 90 | 단백질(g) 20 | 포화지방(g) 29 | 나트륨(mg) 460 | 카페인(mg) 96",
+    "allergy": "달걀, 우유, 대두, 밀, 쇠고기"
+  },
+  {
+    "id": 21,
+    "name": "치즈설빙",
+    "category": "설빙",
+    "subcategory": "REGULAR",
+    "thumbnail": "/images/regular/치즈설빙.png",
+    "image": "/images/product/치즈설빙big.png",
+    "ingredients": [
+      {
+        "name": "파마산치즈",
+        "image": "/images/ingredient/파마산치즈.png"
+      },
+      {
+        "name": "큐브치즈케이크",
+        "image": "/images/ingredient/큐브치즈케이크.png"
+      },
+      {
+        "name": "바닐라 아이스크림",
+        "image": "/images/ingredient/바닐라아이스크림.png"
+      }
+    ],
+    "description": "부드러운 눈꽃 우유 사이사이로 치즈가 겹겹이 숨어있어요!\n한 입, 한 입 먹을 때마다 치즈의 색다른 모먼트를 맛볼 수 있답니다.\n여기에 한 입 크기의 큐브치즈케이크를 더하면\n단짠단짠 치즈케이크 맛 빙수 완성!",
+    "subTitle": "치즈케이크일까요? 빙수일까요?",
+    "nutrition": "열량(Kcal) 790 | 당류(g) 69 | 단백질(g) 18 | 포화지방(g) 23 | 나트륨(mg) 590",
+    "allergy": "달걀, 우유, 대두, 밀"
+  },
+  {
+    "id": 22,
+    "name": "생딸기허니브레드",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/생딸기허니브레드.png",
+    "image": "/images/product/생딸기허니브레드big.png",
+    "description": "깊은 풍미의 버터를 가득 머금은 허니브레드에\n싱그러운 딸기와 달콤하고 부드러운 생크림을 올려\n상큼하고 달콤한 디저트의 매력을 한 접시에 담았습니다.\n다채로운 매력을 지닌 생딸기허니브레드로 특별한 오늘을 만들어보세요.",
+    "subTitle": "달콤한 허니브레드에 딸기와 생크림을 듬뿍!",
+    "nutrition": "열량(Kcal) 720 | 당류(g) 24 | 단백질(g) 16 | 포화지방(g) 15 | 나트륨(mg) 920",
+    "allergy": "우유·대두·밀"
+  },
+  {
+    "id": 23,
+    "name": "생딸기크로플",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/생딸기크로플.png",
+    "image": "/images/product/생딸기크로플big.png",
+    "description": "부드러운 아이스크림과 생딸기를 더한 크로플\n바삭하고 쫀득한 크로플에 부드럽고 달콤한 아이스크림을 더하고\n싱그러운 생딸기를 올린 스페셜한 만남.\n입안에서 터지는 다채로운 달콤함으로 특별한 만남을 장식해 보세요.",
+    "subTitle": "부드러운 아이스크림과 생딸기를 더한 크로플",
+    "nutrition": "열량(Kcal) 250 | 당류(g) 7 | 단백질(g) 10 | 포화지방(g) 8 | 나트륨(mg) 210",
+    "allergy": "달걀·우유·밀"
+  },
+  {
+    "id": 24,
+    "name": "생딸기찹쌀떡",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/생딸기찹쌀떡.png",
+    "image": "/images/product/생딸기찹쌀떡big.png",
+    "description": "달콤한 팥앙금이 가득 들어있는 탱글탱글 찹쌀떡에\n부드러운 순연유 소스를 더하고 상큼한 딸기를 올렸어요.\n몽글몽글 기분 좋은 디저트 타임을 선물해 보세요.",
+    "subTitle": "새하얀 찹쌀떡과 새빨간 딸기의 유혹",
+    "nutrition": "열량(Kcal) 195 | 당류(g) 18 | 단백질(g) 3 | 포화지방(g) 0 | 나트륨(mg) 180",
+    "allergy": "우유·밀"
+  },
+  {
+    "id": 25,
+    "name": "인절미토스트",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/인절미토스트.png",
+    "image": "/images/product/인절미토스트big.png",
+    "description": "고소하고 쫀득한 한국 전통 인절미가\n노릇노릇 바삭한 토스트와 달콤한 꿀을 만나\n일상 속의 특별함을 선물합니다.",
+    "subTitle": "익숙한 듯 색다른 설빙만의 K-토스트!",
+    "nutrition": "열량(Kcal) 390 | 당류(g) 16 | 단백질(g) 10 | 포화지방(g) 3 | 나트륨(mg) 525",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 26,
+    "name": "모짜렐라인절미토스트",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/모짜렐라인절미토스트.png",
+    "image": "/images/product/모짜렐라인절미토스트big.png",
+    "description": "고소하고 쫀득한 인절미 토스트와 부드러운 모짜렐라 치즈,\n체다 치즈가 만나 생각지도 못한 환상의 조합이 펼쳐집니다.\n단짠단짠의 멈출 수 없는 맛을 즐겨보세요!",
+    "subTitle": "인절미토스트 위에 쫀쫀한 치즈를 더하면?",
+    "nutrition": "열량(Kcal) 465 | 당류(g) 12 | 단백질(g) 13 | 포화지방(g) 8 | 나트륨(mg) 820",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 27,
+    "name": "허니버터브레드",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/허니버터브레드.png",
+    "image": "/images/product/허니버터브레드big.png",
+    "description": "버터와 꿀을 더해 달콤하게 구워낸 브레드에\n생크림과 캐러멜 소스, 초코 소스까지~!?\n디저트계의 다크호스가 한자리에 모였어요!",
+    "subTitle": "달콤한 브레드를 촉촉하고 바삭하게~",
+    "nutrition": "열량(Kcal) 705 | 당류(g) 24 | 단백질(g) 16 | 포화지방(g) 15 | 나트륨(mg) 920",
+    "allergy": "우유·대두·밀"
+  },
+  {
+    "id": 28,
+    "name": "쌍쌍치즈가래떡",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/쌍쌍치즈가래떡.png",
+    "image": "/images/product/쌍쌍치즈가래떡big.png",
+    "description": "부드러운 모짜렐라 치즈를 품은 가래떡에\n단짠단짠 체다치즈와 파마산 치즈를 올렸어요!\n노릇노릇 구워낸 떡과 치즈를 꿀에 찍어 먹어 보세요~",
+    "subTitle": "가래떡의 변신은 무죄!",
+    "nutrition": "열량(Kcal) 480 | 당류(g) 5 | 단백질(g) 15 | 포화지방(g) 7 | 나트륨(mg) 720",
+    "allergy": "우유·대두·밀"
+  },
+  {
+    "id": 29,
+    "name": "바바리안츄러스",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/바바리안츄러스.png",
+    "image": "/images/product/바바리안츄러스big.png",
+    "description": "달콤쌉쌀한 시나몬 슈가가 소복이 내려앉은 츄러스에\n크리미한 바바리안 크림을 가득 넣어\n지루할 틈 없는 스낵 타임이 시작됩니다.",
+    "subTitle": "부드러운 바바리안 크림을 품은 바사삭 츄러스",
+    "nutrition": "열량(Kcal) 240 | 당류(g) 4 | 단백질(g) 4 | 포화지방(g) 1.5 | 나트륨(mg) 320",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 30,
+    "name": "딥초코츄러스",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/딥초코츄러스.png",
+    "image": "/images/product/딥초코츄러스big.png",
+    "description": "한 입 베어 물면 바사삭한 츄러스와 크리미한 초코필링이\n온 세상을 환하게 밝혀줄 거예요.\n초코마니아라면 꾸덕꾸덕 딥초코 디핑소스에 츄러스를 찍어 즐겨보세요.",
+    "subTitle": "찐~한 딥초코와 바삭바삭 츄러스가 만났다!",
+    "nutrition": "열량(Kcal) 210 | 당류(g) 2 | 단백질(g) 2 | 포화지방(g) 3 | 나트륨(mg) 220",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 31,
+    "name": "한입 쏙 붕어빵(팥)",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/한입쏙붕어빵팥.png",
+    "image": "/images/product/한입쏙붕어빵(팥)big.png",
+    "description": "꼬리부터? 머리부터? 고민하지 말고 한 입에 쏙!\n바삭하게 구운 쫄깃한 반죽 속에\n달콤한 추억의 팥앙금을 가득 채웠어요.",
+    "subTitle": "여기가 바로 붕세권입니다",
+    "nutrition": "열량(Kcal) 390 | 당류(g) 27 | 단백질(g) 8 | 포화지방(g) 6 | 나트륨(mg) 220",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 32,
+    "name": "한입 쏙 붕어빵\n(슈크림)",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/한입쏙붕어빵슈크림.png",
+    "image": "/images/product/한입쏙붕어빵(슈크림)big.png",
+    "description": "바삭한 붕어빵 속에 크리미한 슈크림을 가득 넣었어요.\n한 입에 쏙~! 입안에서 퍼지는 크리미한 달콤함으로\n포근한 시간을 즐겨보세요.",
+    "subTitle": "부드러운 슈크림을 한 입에 쏙!",
+    "nutrition": "열량(Kcal) 360 | 당류(g) 7 | 단백질(g) 5 | 포화지방(g) 8 | 나트륨(mg) 220",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 33,
+    "name": "한입 쏙 붕어빵\n(자색고구마)",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/한입쏙붕어빵자색고구마.png",
+    "image": "/images/product/한입쏙붕어빵(자색고구마)big.png",
+    "description": "자색 고구마를 닮은 붕어빵 속에는\n스윗한 고구마 크림을 가득 넣어 크림이\n입안에서 고구마의 달콤함이 은은하게 퍼질 거예요.",
+    "subTitle": "보랏빛 붕어빵의 정체를 공개합니다!",
+    "nutrition": "열량(Kcal) 325 | 당류(g) 19 | 단백질(g) 5 | 포화지방(g) 6 | 나트륨(mg) 190",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 34,
+    "name": "한입 쏙 붕어빵\n(피자)",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/한입쏙붕어빵피자.png",
+    "image": "/images/product/한입쏙붕어빵(피자)big.png",
+    "description": "토마토소스와 풍성한 야채들!\n그 사이로 짭조름한 치즈까지 듬뿍~\n오늘은 한 입으로 즐기는 피자 타임 어떠세요?",
+    "subTitle": "작고 귀여운 붕어빵 안에 피자가?",
+    "nutrition": "열량(Kcal) 325 | 당류(g) 5 | 단백질(g) 7 | 포화지방(g) 3 | 나트륨(mg) 485",
+    "allergy": "달걀·우유·대두·밀·돼지고기·쇠고기·조개류(굴)·닭고기"
+  },
+  {
+    "id": 35,
+    "name": "플레인크로플",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/플레인크로플.png",
+    "image": "/images/product/플레인크로플big.png",
+    "description": "진한 버터의 풍미를 머금은 폭신한 크루아상을\n와플처럼 구워내 겉바속촉한 매력이 뿜뿜!\n화려한 토핑 없이도 완벽한 디저트 타임이 될 거예요.",
+    "subTitle": "와플이 되어버린 크로플의 진한 버터 향기",
+    "nutrition": "열량(Kcal) 190 | 당류(g) 5 | 단백질(g) 3 | 포화지방(g) 6 | 나트륨(mg) 180",
+    "allergy": "달걀·우유·밀"
+  },
+  {
+    "id": 36,
+    "name": "인절미크로플",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/인절미크로플.png",
+    "image": "/images/product/인절미크로플big.png",
+    "description": "진한 버터의 풍미를 머금은 크로플에\n인절미 콩가루를 가득 올려 한국의 맛을 더한\n고소하고 색다른 설빙만의 크로플을 만나보세요.",
+    "subTitle": "콩가루를 입은 크로플이 반한 한국의 고소미",
+    "nutrition": "열량(Kcal) 385 | 당류(g) 14 | 단백질(g) 7 | 포화지방(g) 12 | 나트륨(mg) 230",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 37,
+    "name": "치즈크로플",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/치즈크로플.png",
+    "image": "/images/product/치즈크로플big.png",
+    "description": "진한 치즈의 풍미가 바삭한 크로플 위에서 고소한 유혹으로 펼쳐요.\n부드럽고 크리미한 치즈가 입안 가득 퍼지며, 바삭한 크로플의 식감과 어우러져 깊은 여운을 남기죠.\n치즈의 짭짤함과 크로플의 고소함이 어우러진 특별한 디저트로 하루를 더 풍성하게 만들어 보세요.",
+    "subTitle": "크로플과 치즈의 단짠단짠한 매력",
+    "nutrition": "열량(Kcal) 255 | 당류(g) 9 | 단백질(g) 6 | 포화지방(g) 10 | 나트륨(mg) 380",
+    "allergy": "달걀·우유·밀"
+  },
+  {
+    "id": 38,
+    "name": "초코크로플",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/초코크로플.png",
+    "image": "/images/product/초코크로플big.png",
+    "description": "진한 초코를 올린 크로플에 사르르~ 여기에 바닐라 아이스크림을 더하면?\n실패 없는 환상의 조합을 한 입 먹기 전엔 마음의 준비가 필요합니다.\n한 번 빠지면 헤어 나올 수 없는 매력의 초코크로플이 자다가도 떠오를지 몰라요.",
+    "subTitle": "자꾸만 생각나는 딥초코와 크로플의 조합",
+    "nutrition": "열량(Kcal) 390 | 당류(g) 18 | 단백질(g) 8 | 포화지방(g) 13 | 나트륨(mg) 320",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 39,
+    "name": "꿀호떡",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/꿀호떡.png",
+    "image": "/images/product/꿀호떡big.png",
+    "description": "추억의 맛을 그대로 담아 한 입 베어 물면\n달콤한 꿀과 고소한 견과류가 입안 가득~!\n따끈따끈한 호떡과 함께 오늘의 추억을 만들어보세요.",
+    "subTitle": "호호~ 불며 뜨거울 때 먹어야 제맛! 겉바속촉 디저트의 일인자",
+    "nutrition": "열량(Kcal) 260 | 당류(g) 17 | 단백질(g) 6 | 포화지방(g) 2.3 | 나트륨(mg) 60",
+    "allergy": "땅콩·대두·밀"
+  },
+  {
+    "id": 40,
+    "name": "인절미꿀호떡",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/인절미꿀호떡.png",
+    "image": "/images/product/인절미꿀호떡big.png",
+    "description": "달콤한 꿀호떡에 설빙의 시그니처인 인절미 콩가루를 더해\n부드러운 고소함을 더해줬어요. 여기에 사르르 녹아내리는\n바닐라 아이스크림 더해주면? 익숙하면서도 특별한 인절미꿀호떡이 완성됩니다.",
+    "subTitle": "콩가루 이불을 덮은 꿀호떡과 바닐라 아이스크림의 만남",
+    "nutrition": "열량(Kcal) 350 | 당류(g) 20 | 단백질(g) 6 | 포화지방(g) 2.3 | 나트륨(mg) 130",
+    "allergy": "땅콩·대두·밀"
+  },
+  {
+    "id": 41,
+    "name": "꽈배기오리지널",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/꽈배기오리지널.png",
+    "image": "/images/product/꽈배기오리지널big.png",
+    "description": "손으로 뜯어먹으면 쫄깃함이 두 배!\n손끝에 남은 설탕 가루마저 기분 좋아지는\n옛날 꽈배기로 변하지 않는 추억의 맛을 즐겨보세요.",
+    "subTitle": "시나몬 슈가가 소복이 내려앉은 폭신한 옛날 꽈배기",
+    "nutrition": "열량(Kcal) 307 | 당류(g) 12 | 단백질(g) 4 | 포화지방(g) 11 | 나트륨(mg) 175",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 42,
+    "name": "꽈배기 인절미",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/꽈배기인절미.png",
+    "image": "/images/product/꽈배기인절미big.png",
+    "description": "누구나 좋아하는 달콤한 꽈배기에 인절미와 콩가루를 더하면?\n꽈배기의 쫀득함에 콩가루의 고소함을 더해 풍부한 맛을 선사해요.",
+    "subTitle": "쫀득한 꽈배기에 고소한 콩가루가 우수수~",
+    "nutrition": "열량(Kcal) 330 | 당류(g) 13 | 단백질(g) 6 | 포화지방(g) 11 | 나트륨(mg) 175",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 43,
+    "name": "꽈배기 초코",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/꽈배기초코.png",
+    "image": "/images/product/꽈배기초코big.png",
+    "description": "바삭하면서도 쫄깃한 기본 꽈배기에 달콤한 초코의 매력을 더했죠.\n쫀득하면서 달콤한 디저트가 당긴다면 잊지 마세요!",
+    "subTitle": "씹을 때마다 달콤한 맛을 선사해요",
+    "nutrition": "열량(Kcal) 270 | 당류(g) 8 | 단백질(g) 4 | 포화지방(g) 6 | 나트륨(mg) 230",
+    "allergy": "달걀·우유·대두·밀"
+  },
+  {
+    "id": 44,
+    "name": "소금빵",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/소금빵.png",
+    "image": "/images/product/소금빵big.png",
+    "description": "버터의 깊은 풍미가 더 촉촉하고 진하게~\n담백하고 심플하지만 소금 한 꼬집으로 완성한\n고소한 감칠맛이 완벽한 밸런스를 완성합니다.",
+    "subTitle": "소금 한 꼬집이 완성하는 잊을 수 없는 한 입",
+    "nutrition": "열량(Kcal) 250 | 당류(g) 2 | 단백질(g) 7 | 포화지방(g) 7 | 나트륨(mg) 400",
+    "allergy": "우유·대두·밀"
+  },
+  {
+    "id": 45,
+    "name": "티라미수케이크",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/티라미수케이크.png",
+    "image": "/images/product/티라미수케이크big.png",
+    "description": "진한 에스프레소를 머금은 케이크 시트 위로\n두툼한 마스카포네 치즈를 올려 부드럽고 달콤한 케이크!\n은은한 코코아 가루로 마음을 녹이는 티라미수케이크가\n로맨틱한 하루를 만들어줄 거예요.",
+    "subTitle": "에스프레소와 사랑에 빠진 티라미수케이크",
+    "nutrition": "열량(Kcal) 330 | 당류(g) 26 | 단백질(g) 4 | 포화지방(g) 14 | 나트륨(mg) 70",
+    "allergy": "달걀·우유·대두·밀·쇠고기"
+  },
+  {
+    "id": 46,
+    "name": "인절미마카롱",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/인절미마카롱.png",
+    "image": "/images/product/인절미마카롱big.png",
+    "description": "쫀득한 식감과 고소한 인절미 크림이 조화를 이루는 인절미마카롱.\n입안에 고소한 여운을 남기는 부드러운 크림의 맛을 설빙에서 만나보세요.",
+    "subTitle": "현대적으로 재해석한 전통의 맛!",
+    "nutrition": "열량(Kcal) 130 | 당류(g) 11 | 단백질(g) 3 | 포화지방(g) 2.7 | 나트륨(mg) 25",
+    "allergy": "달걀·우유·대두"
+  },
+  {
+    "id": 47,
+    "name": "바닐라마카롱",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/바닐라마카롱.png",
+    "image": "/images/product/바닐라마카롱big.png",
+    "description": "고소하고 쫀득한 아몬드 코크 사이에\n부드러운 바닐라 가나슈를 넣어 완성했어요!\n달콤한 크림빛 한 입으로 온화한 여유를 만끽해 보세요.",
+    "subTitle": "은은하게 퍼지는 바닐라 가나슈의 달콤함",
+    "nutrition": "열량(Kcal) 130 | 당류(g) 11 | 단백질(g) 2 | 포화지방(g) 3.6 | 나트륨(mg) 20",
+    "allergy": "달걀·우유"
+  },
+  {
+    "id": 48,
+    "name": "딸기마카롱",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/딸기마카롱.png",
+    "image": "/images/product/딸기마카롱big.png",
+    "description": "고소하고 쫀득한 아몬드 꼬끄 사이에서 느껴지는 새콤달콤한 맛!\n사랑스러운 핑크빛 한 입으로 화사한 오늘을 완성해 보세요.",
+    "subTitle": "새콤달콤한 딸기 크림의 싱그러운 한 입 디저트",
+    "nutrition": "열량(Kcal) 125 | 당류(g) 12 | 단백질(g) 2 | 포화지방(g) 3.3 | 나트륨(mg) 10",
+    "allergy": "달걀·우유"
+  },
+  {
+    "id": 49,
+    "name": "매콤떡볶이",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/매콤떡볶이.png",
+    "image": "/images/product/매콤떡볶이big.png",
+    "description": "쫀득쫀득한 떡과 매콤 달콤한 고추장 소스가 어우러져\n아이도 어른도 모두가 사랑하는 떡볶이!\n출출할 때 메뉴가 고민된다면 매콤떡볶이를 즐겨보세요.",
+    "subTitle": "남녀노소 모두가 사랑하는 K-푸드의 절대 강자!",
+    "nutrition": "열량(Kcal) 445 | 당류(g) 23 | 단백질(g) 17 | 포화지방(g) 0.6 | 나트륨(mg) 1,190",
+    "allergy": "대두·밀·닭고기·쇠고기"
+  },
+  {
+    "id": 50,
+    "name": "로제떡볶이",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/로제떡볶이.png",
+    "image": "/images/product/로제떡볶이big.png",
+    "description": "크림의 고소함과 은은한 매콤함, 쫄깃한 떡이 조화를 이루죠.\n떡은 크리미한 소스를 잔뜩 머금어 부드럽고 촉촉한 식감을 내요.\n입이 심심할 때 먹기 좋은, 디저트 같은 한 끼랍니다!",
+    "subTitle": "부드럽고 크리미한 로제 소스가 선사하는 알찬 행복",
+    "nutrition": "열량(Kcal) 360 | 당류(g) 8 | 단백질(g) 10 | 포화지방(g) 3.1 | 나트륨(mg) 810",
+    "allergy": "우유·대두·밀·돼지고기·토마토·닭고기·쇠고기·조개류(굴)"
+  },
+  {
+    "id": 51,
+    "name": "마라떡볶이",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/마라떡볶이.png",
+    "image": "/images/product/마라떡볶이big.png",
+    "description": "우리에게 익숙한 떡볶이에 알싸한 마라 맛을 더했어요\n첫입에 퍼지는 독특한 마라향 뒤로 쫄깃한 떡의 식감!\n화끈한 마라의 매운맛처럼 강렬한 간식 타임을 즐겨보세요.",
+    "subTitle": "얼얼한 마라와 쫀득한 떡이 선사하는 특별한 맛",
+    "nutrition": "열량(Kcal) 420 | 당류(g) 9 | 단백질(g) 13 | 포화지방(g) 1.8 | 나트륨(mg) 920",
+    "allergy": "우유·대두·밀·토마토·닭고기·돼지고기·쇠고기·조개류(굴)"
+  },
+  {
+    "id": 52,
+    "name": "반숙김치볶음밥",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/반숙김치볶음밥.png",
+    "image": "/images/product/반숙김치볶음밥big.png",
+    "description": "한국인은? 밥심이지~ 거기에 소울 푸드 김치까지 더하면?\n알아서 더 맛있는 그 맛, 반숙김치볶음밥 한 그릇으로\n든든한 한 끼를 간단하게 해결하세요~",
+    "subTitle": "잘 익은 김치와 고슬고슬 쌀밥의 만남은 유죄!",
+    "nutrition": "열량(Kcal) 370 | 당류(g) 4 | 단백질(g) 7 | 포화지방(g) 2.9 | 나트륨(mg) 1,230",
+    "allergy": "달걀·우유·대두·밀·닭고기·쇠고기·조개류(굴)"
+  },
+  {
+    "id": 53,
+    "name": "통통새우볶음밥",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/통통새우볶음밥.png",
+    "image": "/images/product/통통새우볶음밥big.png",
+    "description": "통통한 새우가 들어간 통통새우볶음밥으로\n간단하면서 알찬 맛을 자랑해요. 새우의 담백함과 볶음밥의 고소함이\n입안 가득 퍼지면 숟가락을 멈출 수 없을지도요?",
+    "subTitle": "탱글탱글한 새우와 고슬고슬한 밥으로 한 그릇 뚝딱!",
+    "nutrition": "열량(Kcal) 410 | 당류(g) 2 | 단백질(g) 8 | 포화지방(g) 1.9 | 나트륨(mg) 1,420",
+    "allergy": "달걀·대두·밀·새우·우유·쇠고기·조개류(굴)"
+  },
+  {
+    "id": 54,
+    "name": "토마토스파게티",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/토마토스파게티.png",
+    "image": "/images/product/토마토스파게티big.png",
+    "description": "토마토의 새콤달콤한 맛을 담은 풍부한 소스로\n포크로 휘휘 말아 먹으면 한 입 가득 행복을 선사해요.\n간편한 식사가 필요할 때 제격이죠!",
+    "subTitle": "상큼한 토마토 소스와 고소한 치즈가 어우러진 정통 토마토스파게티",
+    "nutrition": "열량(Kcal) 385 | 당류(g) 15 | 단백질(g) 13 | 포화지방(g) 1.8 | 나트륨(mg) 1,010",
+    "allergy": "달걀·우유·대두·밀·돼지고기·토마토·닭고기·쇠고기"
+  },
+  {
+    "id": 55,
+    "name": "베이컨크림스파게티",
+    "category": "사이드",
+    "subcategory": "SIDE",
+    "thumbnail": "/images/side/베이컨크림스파게티.png",
+    "image": "/images/product/베이컨크림스파게티big.png",
+    "description": "고소하면서도 짭조름한, 이 익숙한 맛은 포크를 쉬지 않게 하죠.\n부드러운 크림소스와 베이컨의 조합은 언제나 성공이에요!",
+    "subTitle": "꾸덕한 크림 소스가 일품인 베이컨크림스파게티",
+    "nutrition": "열량(Kcal) 435 | 당류(g) 6 | 단백질(g) 13 | 포화지방(g) 6 | 나트륨(mg) 970",
+    "allergy": "우유·대두·밀·닭고기·조개류(가리비)·돼지고기·쇠고기"
+  },
+  {
+    "id": 56,
+    "name": "아메리카노",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/아메리카노.png",
+    "image": "/images/product/아메리카노big.png",
+    "description": "원두 본연의 맛을 담은 깔끔한 설빙의 아메리카노 한 잔이라면\n지금 이 순간이 더 깊고 진하게 기억될 거예요.",
+    "subTitle": "어떤 디저트에도 잘 어울리는 깊은 커피의 맛",
+    "nutrition": "열량(Kcal) 5 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0 | 카페인(mg) 192",
+    "allergy": "-"
+  },
+  {
+    "id": 57,
+    "name": "아메리카노Venti",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/아메리카노Venti.png",
+    "image": "/images/product/아메리카노Ventibig.png",
+    "description": "더 크고 깊은 진한 아메리카노 벤티사이즈로\n소중한 사람들과 여유로운 디저트 타임되세요.",
+    "subTitle": "지금 이 순간이 오래오래 기억될, Venti",
+    "nutrition": "열량(Kcal) 10 | 당류(g) 0 | 단백질(g) 1g미만 | 포화지방(g) 0 | 나트륨(mg) 0 | 카페인(mg) 384",
+    "allergy": "-"
+  },
+  {
+    "id": 58,
+    "name": "카페라떼",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/카페라떼.png",
+    "image": "/images/product/카페라떼big.png",
+    "description": "진한 에스프레소를 감싸는 부드럽고 고소한 우유가\n크리미하게 포근한 일상 속 쉼표가 되어줄 거예요.",
+    "subTitle": "더 풍부한 디저트 타임을 위한 카페라떼의 부드러움",
+    "nutrition": "열량(Kcal) 115 | 당류(g) 15 | 단백질(g) 6 | 포화지방(g) 7 | 나트륨(mg) 65 | 카페인(mg) 192",
+    "allergy": "우유"
+  },
+  {
+    "id": 59,
+    "name": "인절미샷라떼",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/인절미샷라떼.png",
+    "image": "/images/product/인절미샷라떼big.png",
+    "description": "설빙의 시그니처 라떼! 인절미라떼에 에스프레소를 더하면?\n고소한 콩가루와 진한 커피의 맛이 입안을 감싸는 설빙의 K-커피!\n한 번 맛보면 잊을 수 없을 거예요.",
+    "subTitle": "설빙에서만 만날 수 있는 인절미와 커피의 조합!",
+    "nutrition": "열량(Kcal) 260 | 당류(g) 20 | 단백질(g) 12 | 포화지방(g) 5 | 나트륨(mg) 180 | 카페인(mg) 96",
+    "allergy": "우유·대두"
+  },
+  {
+    "id": 60,
+    "name": "카푸치노",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/카푸치노.png",
+    "image": "/images/product/카푸치노big.png",
+    "description": "부드러운 우유 거품 속에 고소하고 진한 커피가 숨어있어요.\n시나몬 파우더의 강렬한 첫인상과\n묵직한 카푸치노의 클래식한 무드를 전합니다.",
+    "subTitle": "폭신한 구름 속에 숨은 진한 커피 한 잔",
+    "nutrition": "열량(Kcal) 365 | 당류(g) 0 | 단백질(g) 5 | 포화지방(g) 8 | 나트륨(mg) 55 | 카페인(mg) 192",
+    "allergy": "우유"
+  },
+  {
+    "id": 61,
+    "name": "연유라떼",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/연유라떼.png",
+    "image": "/images/product/연유라떼big.png",
+    "description": "부드러운 우유에 부드러운 연유가 퐁당!\n우유와 환상 궁합을 자랑하는 연유의 단맛으로\n달콤하고 진한 커피를 즐겨보세요.",
+    "subTitle": "부드럽고 달콤한 커피가 당긴다면?",
+    "nutrition": "열량(Kcal) 230 | 당류(g) 27 | 단백질(g) 7 | 포화지방(g) 6 | 나트륨(mg) 110 | 카페인(mg) 192",
+    "allergy": "우유"
+  },
+  {
+    "id": 62,
+    "name": "카라멜마끼아또",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/카라멜마끼아또.png",
+    "image": "/images/product/카라멜마끼아또big.png",
+    "description": "고소한 우유와 진한 커피의 풍미를 머금은 카라멜의 달콤함!\n한 모금 마실 때마다 기분이 좋아지는\n카라멜마끼아또로 당 충전하고 가세요~!",
+    "subTitle": "당 충전이 필요한 순간엔 달콤한 카라멜마끼아또",
+    "nutrition": "열량(Kcal) 185 | 당류(g) 24 | 단백질(g) 6 | 포화지방(g) 5 | 나트륨(mg) 66 | 카페인(mg) 192",
+    "allergy": "우유"
+  },
+  {
+    "id": 63,
+    "name": "카페모카",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/카페모카.png",
+    "image": "/images/product/카페모카big.png",
+    "description": "에스프레소와 우유, 여기에 진한 초콜릿을 더하면?\n카페인과 당을 한번에 충전하는 달콤쌉싸름한 카페모카 완성!\n달콤한 카페모카 한 잔으로 에너제틱한 하루를 만나보세요.",
+    "subTitle": "진한 초콜릿과 쌉싸름한 에스프레소의 조화",
+    "nutrition": "열량(Kcal) 330 | 당류(g) 30 | 단백질(g) 9 | 포화지방(g) 10 | 나트륨(mg) 80 | 카페인(mg) 192",
+    "allergy": "우유·대두"
+  },
+  {
+    "id": 64,
+    "name": "바닐라라떼",
+    "category": "음료",
+    "subcategory": "COFFEE",
+    "thumbnail": "/images/drink/바닐라라떼.png",
+    "image": "/images/product/바닐라라떼big.png",
+    "description": "고소하고 크리미한 우유와 진한 커피의 맛을 감싸는\n바닐라의 깊은 여운을 느껴보세요.\n은은하게 번지는 달콤함과 이 순간이 오래오래 기억될 거예요.",
+    "subTitle": "부드러운 라떼에 베인 달콤한 바닐라의 풍미",
+    "nutrition": "열량(Kcal) 300 | 당류(g) 17 | 단백질(g) 6 | 포화지방(g) 8 | 나트륨(mg) 90 | 카페인(mg) 192",
+    "allergy": "우유"
+  },
+  {
+    "id": 65,
+    "name": "애플망고스무디",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/애플망고스무디.png",
+    "image": "/images/product/애플망고스무디big.png",
+    "description": "톡! 터지는 망고의 과즙, 입에 머무는 부드러운 단맛,\n끝에 남는 상큼한 시원함까지! 애플망고의 달콤함을 가득 채웠어요.\n지친 하루에 상큼한 쉼표가 되어줄 애플망고스무디, 설빙에서 만나보세요.",
+    "subTitle": "열대의 짜릿한 햇살을 한가득 담은 애플망고스무디",
+    "nutrition": "열량(Kcal) 275 | 당류(g) 56 | 단백질(g) 1 | 포화지방(g) 0 | 나트륨(mg) 20",
+    "allergy": "-"
+  },
+  {
+    "id": 66,
+    "name": "생딸기주스",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/생딸기주스.png",
+    "image": "/images/product/생딸기주스big.png",
+    "description": "싱그러운 생딸기의 달콤함을 한 잔에 담아\n기분 좋은 달콤함으로 일상에 활력을 더해보세요!",
+    "subTitle": "지친 몸과 마음을 달래 줄 싱그러운 생딸기주스",
+    "nutrition": "열량(Kcal) 110 | 당류(g) 18 | 단백질(g) 1 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "-"
+  },
+  {
+    "id": 67,
+    "name": "인절미라떼",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/인절미라떼.png",
+    "image": "/images/product/인절미라떼big.png",
+    "description": "고소한 인절미 콩가루의 풍미가 부드러운 우유와 만나\n한 모금 한 모금 깊은 맛을 전합니다.\n설빙의 시그니처 라떼, 인절미라떼로 설빙의 진수를 경험하세요.",
+    "subTitle": "고소한 콩가루와 우유의 만남! 설빙의 시그니처 라떼",
+    "nutrition": "열량(Kcal) 320 | 당류(g) 26 | 단백질(g) 14 | 포화지방(g) 6 | 나트륨(mg) 240",
+    "allergy": "우유·대두"
+  },
+  {
+    "id": 68,
+    "name": "깔끔식혜",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/깔끔식혜.png",
+    "image": "/images/product/깔끔식혜big.png",
+    "description": "부담 없이 즐길 수 있는 깔끔한 단맛으로 담백하게~!\n동동 떠 있는 밥알을 씹을 때마다 고소한 맛이 더해져\n전통 식혜의 깊은 맛을 즐길 수 있습니다.",
+    "subTitle": "깔끔하고 시원한 맛이 돋보이는 전통 음료",
+    "nutrition": "열량(Kcal) 165 | 당류(g) 38 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "-"
+  },
+  {
+    "id": 69,
+    "name": "깔끔식혜Venti",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/깔끔식혜Venti.png",
+    "image": "/images/product/깔끔식혜Ventibig.png",
+    "description": "부담 없이 즐길 수 있는 깔끔한 단맛으로 담백하게~!\n동동 떠있는 밥알을 씹을 때마다 고소한 맛이 더해져\n전통 식혜의 깊은 맛을 즐길 수 있습니다.",
+    "subTitle": "더 크면? 더 맛있다! 깔끔식혜, Venti",
+    "nutrition": "열량(Kcal) 240 | 당류(g) 54 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 5",
+    "allergy": "-"
+  },
+  {
+    "id": 70,
+    "name": "미숫가루라떼",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/미숫가루라떼.png",
+    "image": "/images/product/미숫가루라떼big.png",
+    "description": "담백고소한 미숫가루와 부드러운 우유가 만났습니다.\n영양 가득 미숫가루라떼로 맛과 건강을 챙기세요.",
+    "subTitle": "여러 가지 곡물이 듬뿍 들어간 코리안 디저트의 근본!",
+    "nutrition": "열량(Kcal) 335 | 당류(g) 11 | 단백질(g) 14 | 포화지방(g) 5 | 나트륨(mg) 210",
+    "allergy": "우유·대두·밀·땅콩"
+  },
+  {
+    "id": 71,
+    "name": "핫초코",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/핫초코.png",
+    "image": "/images/product/핫초코big.png",
+    "description": "지루하고 무료한 일상 속에 도파민이 필요할 때!\n기분 좋은 한 모금으로 새로 고침이 필요할 때!\n따뜻한 핫초코가 텅 빈 마음을 온기로 채워드려요.",
+    "subTitle": "아찔한 달콤함으로 도파민을 채워줄 HOT 초코",
+    "nutrition": "열량(Kcal) 379 | 당류(g) 38 | 단백질(g) 10 | 포화지방(g) 11 | 나트륨(mg) 80",
+    "allergy": "우유·대두"
+  },
+  {
+    "id": 72,
+    "name": "아이스초코",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/아이스초코.png",
+    "image": "/images/product/아이스초코big.png",
+    "description": "한 모금만으로도 스트레스를 날려 줄 ICE 초코\n꽉 막힌 속을 확~ 뚫어줄 한 모금이 필요할 때!\n아찔한 달달함으로 기분 전환이 필요할 때!\n시원한 아이스 초코가 잃어버린 미소를 되돌려드려요.",
+    "subTitle": "한 모금만으로도 스트레스를 날려 줄 ICE 초코",
+    "nutrition": "열량(Kcal) 379 | 당류(g) 38 | 단백질(g) 10 | 포화지방(g) 11 | 나트륨(mg) 80",
+    "allergy": "우유·대두"
+  },
+  {
+    "id": 73,
+    "name": "그린티라떼",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/그린티라떼.png",
+    "image": "/images/product/그린티라떼big.png",
+    "description": "진한 녹차의 풍미와 부드러운 우유가\n색다른 달콤함으로 나른한 오후를 잠 깨워요!\n그린티라떼 한 잔과 여유로운 시간을 즐겨보세요.",
+    "subTitle": "은은한 쌉싸름함과 크리미한 부드러움",
+    "nutrition": "열량(Kcal) 320 | 당류(g) 39 | 단백질(g) 8 | 포화지방(g) 7 | 나트륨(mg) 80 | 카페인(mg) 133",
+    "allergy": "우유·대두"
+  },
+  {
+    "id": 74,
+    "name": "고구마라떼",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/고구마라떼.png",
+    "image": "/images/product/고구마라떼big.png",
+    "description": "고소한 우유와 부드럽고 달콤한 고구마가 만나\n선사하는 든든한 한 잔!\n입안에서 퍼지는 고구마의 진한 맛과 크리미한 질감을 즐겨보세요!",
+    "subTitle": "달콤하고 부드러운데 든든하기까지?",
+    "nutrition": "열량(Kcal) 210 | 당류(g) 29 | 단백질(g) 6 | 포화지방(g) 5 | 나트륨(mg) 155",
+    "allergy": "-"
+  },
+  {
+    "id": 75,
+    "name": "레몬에이드",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/레몬에이드.png",
+    "image": "/images/product/레몬에이드big.png",
+    "description": "레몬의 상큼함을 가득 담은 레몬에이드.\n톡 쏘는 탄산과 레몬의 조화가 상쾌한 기운을 선사하죠!\n레몬에이드 한 잔으로 활력 넘치는 신나는 하루를 시작하세요.",
+    "subTitle": "상큼한 레몬에 짜릿한 탄산을 더한 에너지 담은 한 잔",
+    "nutrition": "열량(Kcal) 205 | 당류(g) 49 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 60",
+    "allergy": "-"
+  },
+  {
+    "id": 76,
+    "name": "유자에이드",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/유자에이드.png",
+    "image": "/images/product/유자에이드big.png",
+    "description": "특유의 상큼한 향과 탄산의 경쾌한 조화가 가볍고 산뜻한 맛을 전합니다.\n리얼 유자 과육이 살아있는 유자에이드로 기분 좋은 청량감을 느껴보세요!",
+    "subTitle": "유자가 톡 쏘는 탄산 속으로 퐁당!",
+    "nutrition": "열량(Kcal) 180 | 당류(g) 40 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 60",
+    "allergy": "="
+  },
+  {
+    "id": 77,
+    "name": "딸기에이드",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/딸기에이드.png",
+    "image": "/images/product/딸기에이드big.png",
+    "description": "싱그러운 딸기의 생생한 맛과 청량한 탄산이 만나\n입안에서 톡톡 터지는 로맨틱한 파티를 열어요!\n사랑스러운 딸기에이드로 상큼한 순간을 만끽하세요.",
+    "subTitle": "사랑스러운 딸기의 상큼한 변신은 무죄",
+    "nutrition": "열량(Kcal) 165 | 당류(g) 40 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 5",
+    "allergy": "-"
+  },
+  {
+    "id": 78,
+    "name": "허니자몽에이드",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/허니자몽에이드.png",
+    "image": "/images/product/허니자몽에이드big.png",
+    "description": "자몽 특유의 쌉싸름함과 꿀의 단맛,\n탄산의 개운함이 모인 찰떡 조합!\n상큼한 에너지가 필요할 때, 허니자몽에이드로 리프레시하세요.",
+    "subTitle": "자몽과 꿀의 감각적인 조화, 입안 가득 퍼지는 청량함",
+    "nutrition": "열량(Kcal) 135 | 당류(g) 29 | 단백질(g) 1g미만 | 포화지방(g) 0 | 나트륨(mg) 10",
+    "allergy": "-"
+  },
+  {
+    "id": 79,
+    "name": "애플망고에이드",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/애플망고에이드.png",
+    "image": "/images/product/애플망고에이드big.png",
+    "description": "애플망고의 달콤함과 청량한 탄산이 만나\n입안에서 상쾌한 파티가 열려요.\n상큼한 기운을 전하는 애플망고에이드로 기분까지 환하게 밝히세요.",
+    "subTitle": "애플망고의 짜릿한 달콤함에 톡 쏘는 탄산까지!",
+    "nutrition": "열량(Kcal) 185 | 당류(g) 39 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 20",
+    "allergy": "-"
+  },
+  {
+    "id": 80,
+    "name": "플레인요거트스무디",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/플레인요거트스무디.png",
+    "image": "/images/product/플레인요거트스무디big.png",
+    "description": "깊고 진한 요거트의 자연스러운 맛이 건강한 에너지를 쑥쑥!\n군더더기 없는 담백한 매력의 플레인요거트스무디로\n가볍고 산뜻한 하루를 시작하세요~",
+    "subTitle": "꾸미지 않은 자연스러운 맛, 플레인 요거트의 진수",
+    "nutrition": "열량(Kcal) 285 | 당류(g) 52 | 단백질(g) 6 | 포화지방(g) 3 | 나트륨(mg) 115",
+    "allergy": "우유"
+  },
+  {
+    "id": 81,
+    "name": "블루베리요거트스무디",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/블루베리요거트스무디.png",
+    "image": "/images/product/블루베리요거트스무디big.png",
+    "description": "부드러운 요거트에 블루베리가 퐁당 빠졌어요!\n블루베리의 상큼함에 요거트의 상큼함이 더해진\n블루베리요거트의 매력을 느껴보세요.",
+    "subTitle": "순수한 요거트에 보랏빛 블루베리의 매력이 듬뿍",
+    "nutrition": "열량(Kcal) 320 | 당류(g) 49 | 단백질(g) 7 | 포화지방(g) 2.9 | 나트륨(mg) 115",
+    "allergy": "우유"
+  },
+  {
+    "id": 82,
+    "name": "딸기요거트스무디",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/딸기요거트스무디.png",
+    "image": "/images/product/딸기요거트스무디big.png",
+    "description": "사랑스러운 핑크빛 스무디가 탄생했어요!\n새콤달콤 딸기와 신선한 요거트의 달콤한 맛으로\n한 모금마다 퍼지는 핑크빛 낭만을 만끽하세요.",
+    "subTitle": "새하얀 요거트와 새빨간 딸기가 만나면",
+    "nutrition": "열량(Kcal) 245 | 당류(g) 47 | 단백질(g) 4 | 포화지방(g) 2.1 | 나트륨(mg) 45",
+    "allergy": "우유"
+  },
+  {
+    "id": 83,
+    "name": "메론소다",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/메론소다.png",
+    "image": "/images/product/메론소다big.png",
+    "description": "달콤하고 부드러운 메론에 부드러운 바닐라 아이스크림 한 스쿱!\n여기에 짜릿한 탄산까지 더하면?\n모금 마다 퍼지는 달콤한 향과 청량한 기운이 상쾌한 바람을 불러와요.",
+    "subTitle": "한 모금마다 퍼지는 시원한 달콤으로 기분 업!",
+    "nutrition": "열량(Kcal) 210 | 당류(g) 41 | 단백질(g) 1g미만 | 포화지방(g) 1.9 | 나트륨(mg) 50",
+    "allergy": "우유·복숭아"
+  },
+  {
+    "id": 84,
+    "name": "캔디소다",
+    "category": "음료",
+    "subcategory": "BEVERAGE",
+    "thumbnail": "/images/drink/캔디소다.png",
+    "image": "/images/product/캔디소다big.png",
+    "description": "톡톡 터지는 캔디소다의 사랑스러운 달콤함에\n부드러운 아이스크림을 한 입 넣으면?\n어린 시절로 돌아간 듯 일상 속의 작은 재미가 톡톡 터질 거예요.",
+    "subTitle": "푸른 바다빛의 캔디소다에 아이스크림이 풍덩!",
+    "nutrition": "열량(Kcal) 255 | 당류(g) 52 | 단백질(g) 0 | 포화지방(g) 2.8 | 나트륨(mg) 25",
+    "allergy": "우유"
+  },
+  {
+    "id": 85,
+    "name": "아이스티",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/아이스티.png",
+    "image": "/images/product/아이스티big.png",
+    "description": "살랑이는 복숭아 향이 입안을 시원하게~\n가볍고 깔끔한 맛으로 일상에 통통 튀는 기분을 더해보세요!",
+    "subTitle": "상쾌한 리듬을 더하는 한 잔, 복숭아 아이스티",
+    "nutrition": "열량(Kcal) 10 | 당류(g) 3 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "복숭아"
+  },
+  {
+    "id": 86,
+    "name": "아이스티Venti",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/아이스티Venti.png",
+    "image": "/images/product/아이스티Ventibig.png",
+    "description": "살랑이는 복숭아 향이 입안을 시원하게~\n가볍고 깔끔한 맛으로 일상에 통통 튀는 기분을 더해보세요!",
+    "subTitle": "상쾌한 리듬을 더하는 복숭아 아이스티, Venti",
+    "nutrition": "열량(Kcal) 20 | 당류(g) 5 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "복숭아"
+  },
+  {
+    "id": 87,
+    "name": "녹차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/녹차.png",
+    "image": "/images/product/녹차big.png",
+    "description": "특유의 씁쓸함, 감미로운 차 맛으로 오랜 시간 사랑받아 온 녹차!\n담백하고 은은한 풍미로, 카페인을 적당히 함유해 기분 좋은 활력을 북돋아요.",
+    "subTitle": "싱그러운 자연을 가득 담은 초록빛 한 모금",
+    "nutrition": "열량(Kcal) 0 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0 | 카페인(mg) 8.5",
+    "allergy": "-"
+  },
+  {
+    "id": 88,
+    "name": "얼그레이",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/얼그레이.png",
+    "image": "/images/product/얼그레이big.png",
+    "description": "베르가못 향이 더해진 우아한 홍차.\n얼그레이의 깊은 맛과 상큼한 향이 조화를 이루어\n기분을 한층 차분하게 만들어 줄 거예요.",
+    "subTitle": "한 모금에 스미는 고풍스러운 품격",
+    "nutrition": "열량(Kcal) 0 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0 | 카페인(mg) 7.5",
+    "allergy": "-"
+  },
+  {
+    "id": 89,
+    "name": "캐모마일",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/캐모마일.png",
+    "image": "/images/product/캐모마일big.png",
+    "description": "부드럽고 은은한 캐모마일은 긴 하루의 긴장을 풀어보세요~\n고요하고 안정적인 기운으로 마법같은 편안함을 선사할게요.",
+    "subTitle": "부드럽고 향긋한 캐모마일이 전하는 평온함",
+    "nutrition": "열량(Kcal) 0 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "-"
+  },
+  {
+    "id": 90,
+    "name": "루이보스",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/루이보스.png",
+    "image": "/images/product/루이보스big.png",
+    "description": "루이보스의 깊고 부드러운 풍미로\n긴장된 몸과 마음을 부드럽게~\n자연스러운 단맛과 허브 향이 근사한 힐링 타임을 선사해요.",
+    "subTitle": "카페인이 없어 낮에도 밤에도 부담 없는 한 잔",
+    "nutrition": "열량(Kcal) 0 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 10",
+    "allergy": "-"
+  },
+  {
+    "id": 91,
+    "name": "페퍼민트",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/페퍼민트.png",
+    "image": "/images/product/페퍼민트big.png",
+    "description": "청량한 향과 개운한 맛으로 정신을 맑게, 스트레스와 피로까지 싹~!\n시원한 페퍼민트로 피로한 몸과 마음을 산뜻하게 만드세요.",
+    "subTitle": "스트레스 해소에는 상쾌한 페퍼민트가 제격",
+    "nutrition": "열량(Kcal) 0 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "-"
+  },
+  {
+    "id": 92,
+    "name": "우엉차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/우엉차.png",
+    "image": "/images/product/우엉차big.png",
+    "description": "고소한 향기에 한 번, 담백한 맛에 두 번 마음이 편안해져요~\n카페인 없는 우엉차 한 잔으로 하루의 긴장을 풀고,\n작은 여유를 느껴보세요.",
+    "subTitle": "고소하면서 담백한 맛이 매력적인 우엉차",
+    "nutrition": "열량(Kcal) 5 | 당류(g) 0 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 0",
+    "allergy": "-"
+  },
+  {
+    "id": 93,
+    "name": "생강차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/생강차.png",
+    "image": "/images/product/생강차big.png",
+    "description": "알싸한 생강 맛에 은은하게 스미는 단맛이 어우러진 생강차.\n온기가 전해지는 한 모금으로 지친 마음을 살포시 달래주세요.",
+    "subTitle": "기분 좋은 알싸함 뒤에 남는 깔끔한 여운",
+    "nutrition": "열량(Kcal) 110 | 당류(g) 25 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 15",
+    "allergy": "-"
+  },
+  {
+    "id": 94,
+    "name": "대추차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/대추차.png",
+    "image": "/images/product/대추차big.png",
+    "description": "달콤하면서도 깊은 풍미가 전해지는 대추차.\n대추의 은은한 단맛으로 더 건강하고 맛있는 일상을 선물할게요!",
+    "subTitle": "대추의 단맛이 전하는 건강하고 포근한 한 모금",
+    "nutrition": "열량(Kcal) 160 | 당류(g) 35 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 20",
+    "allergy": "-"
+  },
+  {
+    "id": 95,
+    "name": "레몬차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/레몬차.png",
+    "image": "/images/product/레몬차big.png",
+    "description": "청량함과 싱그러움이 가득한 설빙 레몬차와 함께\n더 활기차고 밝은 하루를 만들어 보세요.",
+    "subTitle": "일상의 피로를 날리는 상큼한 레몬이 한가득",
+    "nutrition": "열량(Kcal) 205 | 당류(g) 49 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 60",
+    "allergy": "-"
+  },
+  {
+    "id": 96,
+    "name": "유자차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/유자차.png",
+    "image": "/images/product/유자차big.png",
+    "description": "유자 특유의 상큼한 맛이 입안을 감싸며,\n으슬으슬해진 몸을 따뜻하게 녹여줘요.",
+    "subTitle": "햇살 담은 유자의 기분 좋은 달콤함",
+    "nutrition": "열량(Kcal) 180 | 당류(g) 40 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 60",
+    "allergy": "-"
+  },
+  {
+    "id": 97,
+    "name": "허니자몽차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/허니자몽차.png",
+    "image": "/images/product/허니자몽차big.png",
+    "description": "신선한 자몽에 꿀을 더해 맛있고 가벼운 허니자몽차.\n자몽의 특유의 쌉싸름함에 꿀의 은은한 단맛이\n기분을 한층 끌어올려 줄 거예요~",
+    "subTitle": "상큼한 자몽과 달콤한 허니의 운명적 만남",
+    "nutrition": "열량(Kcal) 145 | 당류(g) 30 | 단백질(g) 1g미만 | 포화지방(g) 0 | 나트륨(mg) 15",
+    "allergy": "-"
+  },
+  {
+    "id": 98,
+    "name": "산딸기오미자차",
+    "category": "음료",
+    "subcategory": "TEA",
+    "thumbnail": "/images/drink/산딸기오미자차.png",
+    "image": "/images/product/산딸기오미자차big.png",
+    "description": "오묘한 붉은 빛의 산딸기오미자차!\n건강하고 맛 좋은 오미자에 라즈베리와 석류를 더해\n달콤상큼하게 즐길 수 있어요~",
+    "subTitle": "산딸기의 톡톡 튀는 상큼함과 오미자의 상쾌한 산미!",
+    "nutrition": "열량(Kcal) 175 | 당류(g) 37 | 단백질(g) 0 | 포화지방(g) 0 | 나트륨(mg) 25",
+    "allergy": "-"
+  }
+]

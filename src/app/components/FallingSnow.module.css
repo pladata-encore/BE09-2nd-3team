@@ -1,0 +1,38 @@
+.sulbingsnow{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.snowflakes1, .snowflakes2, .snowflakes3, .snowflakes4 {
+  position: absolute;
+  z-index: 200;
+  width: 50px;
+  height: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+}
+
+.snowflakes1 {
+  background-image: url("/data/main/obj_1.png");
+}
+
+.snowflakes2 {
+  background-image: url("/data/main/obj_2.png");
+}
+
+.snowflakes3 {
+  background-image: url("/data/main/obj_3.png");
+}
+
+.snowflakes4 {
+  background-image: url("/data/main/obj_4.png");
+}

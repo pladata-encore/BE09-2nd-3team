@@ -1,0 +1,142 @@
+/* SNS 섹션 */
+.snsSection {
+  background-color: #fefef2;
+  height: auto;
+}
+
+.snsSection .inner {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  padding: 0 0 0 145px;
+}
+
+.snsHeader {
+  margin: 115px 70px 0 0;
+}
+
+.snsTitle {
+  margin-bottom: 25px;
+}
+
+.socialIcons {
+  display: flex;
+  gap: 7px;
+}
+
+.socialIcons a {
+  display: block;
+}
+
+.socialIcons img {
+  border: 0 none;
+  vertical-align: top;
+}
+
+/* 인스타그램 스타일 그리드 */
+.snsGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2px;
+  margin: 105px 0 80px 0;
+}
+
+@media (min-width: 768px) {
+  .snsGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .snsGrid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.snsPost {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+.postImage {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.postIcon {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 24px;
+  height: 24px;
+  z-index: 1;
+}
+
+.postBadge {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background-color: white;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.postTitle {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+}
+
+.postTitleRed {
+  color: #ff5c5c;
+}
+
+.postTitleYellow {
+  color: #ffd966;
+}
+
+.postOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+}
+
+.grandOpen {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 0.25rem 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.storeName {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.storeHashtags {
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+.storeDate {
+  font-size: 0.875rem;
+}
+
+.storeAddress {
+  font-size: 0.75rem;
+  margin-top: auto;
+}

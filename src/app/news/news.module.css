@@ -1,0 +1,294 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+
+.container {
+  background: #fffef0;
+}
+.container .contentArea {
+  width: 1380px;
+  margin: 0 auto;
+  padding: 105px 0;
+}
+.subTab {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 90px;
+}
+.subTab .inner {
+  position: relative;
+}
+.subTab .inner .tabLink {
+  display: flex;
+}
+.subTab .inner .tabLink .tab {
+  font-family: "Sandoll GyeokdongGL2";
+  display: block;
+  height: 100%;
+  font-size: 22px;
+  padding: 0 42px;
+  color: #873635;
+  line-height: 1;
+  text-decoration: none;
+}
+.subTab .inner .tabLink .tab.on {
+  font-weight: 600;
+}
+.subTab .inner .tabLink .tab ~ .tab {
+  border-left: 2px solid #873635;
+}
+
+.newsArea .newsTitle {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.newsArea .noticeList {
+  display: flex;
+  gap: 35px;
+  list-style: none;
+}
+.newsArea .noticeList .thumbItem {
+  display: block;
+  border: 1px solid #f3f3f3;
+  background: #ffffff;
+  border-radius: 15px;
+  overflow: hidden;
+  text-decoration: none;
+}
+.newsArea .noticeList .thumbItem .thumb {
+  overflow: hidden;
+  width: 322px;
+  height: 324px;
+  overflow: hidden;
+}
+.newsArea .noticeList .thumbItem .thumb img {
+  width: 100%;
+}
+.newsArea .noticeList .thumbItem .textArea {
+  display: flex;
+  padding: 0 30px;
+  justify-content: center;
+  flex-direction: column;
+  height: 120px;
+}
+.newsArea .noticeList .thumbItem .textArea .title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 24px;
+  color: #121212;
+  font-weight: 700;
+  width: 260px;
+}
+.newsArea .noticeList .thumbItem .textArea .date {
+  margin-top: 7px;
+  font-size: 12px;
+  color: #909090;
+}
+
+/* FAQ */
+.newsArea .newsTitle {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.faqList {
+  border-top: 2px solid #ae7875;
+  width: 950px;
+  margin: 80px auto 0 auto;
+  list-style: none;
+}
+.faqList .item {
+  border-bottom: 2px solid #ae7875;
+  padding: 0px 70px 0 30px;
+  text-align: left;
+  position: relative;
+}
+.faqList .item:after {
+  content: "";
+  background: url("/images/news/ico_arrow.png") no-repeat center center;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  right: 38px;
+  top: 34px;
+  transition: 0.3s all;
+}
+.faqList .item.on {
+  background: #ffffff;
+}
+.faqList .item.on:after {
+  transform: rotate(180deg);
+}
+.faqList .item .faqTitle {
+  width: 100%;
+  text-align: left;
+  font-size: 25px;
+  color: #42120e;
+  line-height: 1;
+  padding: 30px 0;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+.faqList .item .faqContent {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  font-size: 20px;
+  color: #8c8c8c;
+  line-height: 1.5;
+  position: relative;
+  padding: 0 0 0 25px;
+  transition: max-height 0.4s ease, opacity 0.4s ease, padding 0.4s ease;
+}
+.faqList .item .faqContent.on {
+  max-height: 500px;
+  opacity: 1;
+  padding: 0 0 30px 25px;
+}
+.faqList .item .faqContent .a {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.faqList .item .faqContent .aCon {
+  white-space: pre-wrap;
+}
+
+/* 온라인 고객센터 */
+.newsArea .newsTitle {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.onlineCenterTxt {
+  font-size: 25px;
+  color: #42120e;
+  line-height: 1.5;
+  text-align: center;
+  margin: -40px 0 75px 0;
+}
+.customerInputArea {
+  width: 615px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.customerInputArea ~ .customerInputArea {
+  margin-top: 35px;
+}
+.customerInputArea .inputItem {
+  background: #f0f0f0;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  height: 80px;
+}
+.customerInputArea .inputItem .label {
+  flex: none;
+  width: 192px;
+  height: 28px;
+  border-right: 2px solid #6a6a6a;
+  padding-left: 30px;
+  font-size: 25px;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+.customerInputArea .inputItem .inputArea {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding: 0 30px;
+}
+.customerInputArea .inputItem .inputArea .input {
+  flex: 1;
+  border-radius: 0;
+  width: 100%;
+  background: transparent;
+  font-size: 21px;
+}
+
+/* 온라인 상담내역 */
+.maintell {
+  text-align: center;
+  background-color: #fefbee;
+  padding-bottom: 5vw;
+}
+
+.title img {
+  width: 100%;
+  max-width: 500px;
+}
+
+.text {
+  font-size: 28px;
+  color: #42120e;
+  line-height: 1.6;
+  margin: 20px 0 60px;
+}
+
+.box {
+  background: #f3e3da;
+  margin: 0 auto;
+  padding: 50px;
+  border-radius: 30px;
+  max-width: 750px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+  flex-wrap: nowrap;
+}
+
+.label1 {
+  width: 90px;
+  font-size: 24px;
+  text-align: left;
+  color: #333;
+  display: flex;
+}
+
+.inputSingle {
+  flex: 0.73;
+  height: 45px;
+  font-size: 18px;
+  padding: 0 10px;
+  border: 2px solid #b99089;
+  background: #fff;
+  min-width: 0;
+}
+
+.inputPhoneGroup {
+  display: flex;
+  gap: 8px;
+  flex: 1;
+}
+
+.inputPhone {
+  width: 100px;
+  height: 45px;
+  font-size: 18px;
+  padding: 0 10px;
+  border: 2px solid #b99089;
+  background: #fff;
+  flex: auto;
+}
+
+.confirmBtn {
+  background: #84352a;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 30px;
+  padding: 0 40px;
+  height: 45px;
+  cursor: pointer;
+}

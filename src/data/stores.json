@@ -1,0 +1,1014 @@
+[
+  {
+    "title": "서울 강남 강남역점",
+    "address": "서울특별시 강남구 테헤란로1길 42 1층",
+    "phone": "02-558-7708",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5018948,
+      "lng": 127.0270102
+    },
+    "id": 21
+  },
+  {
+    "title": "서울 종로 종각점",
+    "address": "서울특별시 종로구 종로2가 84-1번지 2.3층",
+    "phone": "02-732-6777",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.569974,
+      "lng": 126.9856141
+    },
+    "id": 72
+  },
+  {
+    "title": "서울 동작 중앙대점",
+    "address": "서울특별시 동작구 흑석로 101-10, 2층 (흑석동)",
+    "phone": "02-821-1098",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.508200,
+      "lng": 126.960836
+    },
+    "id": 75
+  },
+  {
+    "title": "서울 노원 노원역점",
+    "address": "서울특별시 노원구 상계로 65 현성빌딩 2층",
+    "phone": "02-952-8970",
+    "openingHours": "11:30~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.6563775,
+      "lng": 127.0622445
+    },
+    "id": 102
+  },
+  {
+    "title": "서울 관악 신림점",
+    "address": "서울특별시 관악구 신림본동 1640-1 2층",
+    "phone": "02-879-2080",
+    "openingHours": "12:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.483757,
+      "lng": 126.9283686
+    },
+    "id": 103
+  },
+  {
+    "title": "서울 관악 사당역점",
+    "address": "서울특별시 관악구 남현동 1061-23 (크리스피크림 2층)",
+    "phone": "02-3474-7150",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4751106,
+      "lng": 126.9813747
+    },
+    "id": 110
+  },
+  {
+    "title": "서울 종로 대학로점",
+    "address": "서울특별시 종로구 대학로12길 21, 지상 1~2층",
+    "phone": "070-7721-5047",
+    "openingHours": "11:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5827694,
+      "lng": 127.0032659
+    },
+    "id": 131
+  },
+  {
+    "title": "서울 중구 명동점",
+    "address": "서울특별시 중구 명동3길 27/ 2층,3층",
+    "phone": "02-774-7994",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.562943,
+      "lng": 126.9852877
+    },
+    "id": 147
+  },
+  {
+    "title": "서울 영등포 영등포점",
+    "address": "서울특별시 영등포구 영등포동 3가 8번지 남서울빌딩 2층",
+    "phone": "02-2633-3003",
+    "openingHours": "11:00~23:30 (주문마감 pm 11:00)",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5183672,
+      "lng": 126.9066234
+    },
+    "id": 162
+  },
+  {
+    "title": "서울 마포 공덕점",
+    "address": "서울특별시 마포구 도화길 31-1 2층",
+    "phone": "02-711-0334",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.541072,
+      "lng": 126.949347
+    },
+    "id": 163
+  },
+  {
+    "title": "서울 동작 노량진점",
+    "address": "서울특별시 동작구 노량진로 144",
+    "phone": "02-825-1844",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5134237,
+      "lng": 126.9418408
+    },
+    "id": 166
+  },
+  {
+    "title": "서울 관악 서울대입구역점",
+    "address": "서울특별시 관악구 봉천동 1598-1번지 2층",
+    "phone": "02-872-6716",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4789479,
+      "lng": 126.9526486
+    },
+    "id": 168
+  },
+  {
+    "title": "서울 강북 수유역점",
+    "address": "서울특별시 강북구 오패산로 417  ,  2,3층",
+    "phone": "02-999-2003",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.637628631844,
+      "lng": 127.02583871768
+    },
+    "id": 170
+  },
+  {
+    "title": "서울 서대문 신촌점",
+    "address": "서울특별시 서대문구 연세로 23, 2층",
+    "phone": "070-7716-8970",
+    "openingHours": "10:30~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5573961,
+      "lng": 126.9367238
+    },
+    "id": 182
+  },
+  {
+    "title": "서울 은평 연신내점",
+    "address": "서울특별시 은평구 연서로29길 3, 2층(갈현동)",
+    "phone": "02-2088-0710",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.6190817,
+      "lng": 126.9202509
+    },
+    "id": 199
+  },
+  {
+    "title": "서울 동작 이수역점",
+    "address": "서울특별시 동작구 동작대로 27가길 12(사당동,2층)- 구 미스터 피자집",
+    "phone": "070-4255-7575",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4871113,
+      "lng": 126.980966
+    },
+    "id": 210
+  },
+  {
+    "title": "서울 성동 한양대점",
+    "address": "서울특별시 성동구 행당동 19-100 2층",
+    "phone": "02-2282-0053",
+    "openingHours": "10:00~23:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5587193,
+      "lng": 127.0405739
+    },
+    "id": 216
+  },
+  {
+    "title": "서울 강서 화곡점",
+    "address": "서울특별시 강서구 화곡동 1065-14 대성빌딩 2층",
+    "phone": "02-2699-1357",
+    "openingHours": "10:30~23:00",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5418776,
+      "lng": 126.8391577
+    },
+    "id": 230
+  },
+  {
+    "title": "서울 광진 건대지점",
+    "address": "서울특별시 광진구 아차산로 225 (화양동) 단산화빌딩 2층",
+    "phone": "02-499-5385",
+    "openingHours": "일~목 : 10:00~22:30 (주문 마감시간 22:00) / 금~토,휴일전 : 10:00 ~ 23:00 (주문 마감시간 22:30)",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5402559,
+      "lng": 127.0687357
+    },
+    "id": 236
+  },
+  {
+    "title": "서울 용산 숙대점",
+    "address": "서울특별시 용산구 서울특별시 용산구 청파로47길 52명신프라자 202호(청파동2가)",
+    "phone": "02-715-9888",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5449622,
+      "lng": 126.9676557
+    },
+    "id": 247
+  },
+  {
+    "title": "서울 동작 보라매점",
+    "address": "서울특별시 동작구 신대방동 708 해태보라매타워 2층",
+    "phone": "02-831-6117",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4912462,
+      "lng": 126.9247981
+    },
+    "id": 261
+  },
+  {
+    "title": "서울 성북 월곡역점",
+    "address": "서울특별시 성북구 하월곡동 27-62번지 정우빌딩 2층",
+    "phone": "02-943-4811",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.6036835,
+      "lng": 127.0418609
+    },
+    "id": 262
+  },
+  {
+    "title": "서울 성북 미아점",
+    "address": "서울특별시 성북구 길음동32(도봉로 31-1)",
+    "phone": "02-986-2900",
+    "openingHours": "10:30~22:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6120485,
+      "lng": 127.0298516
+    },
+    "id": 264
+  },
+  {
+    "title": "서울 양천 목동점",
+    "address": "서울특별시 양천구 목동 934, 목동금호APT 상가 2층",
+    "phone": "070-8883-0334",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.525116,
+      "lng": 126.8728517
+    },
+    "id": 266
+  },
+  {
+    "title": "서울 동대문 이문점",
+    "address": "서울특별시 동대문구 이문동 289-1",
+    "phone": "02-959-7224",
+    "openingHours": "10:30~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5961606,
+      "lng": 127.0614761
+    },
+    "id": 267
+  },
+  {
+    "title": "서울 노원 중계은행사거리점",
+    "address": "서울특별시 노원구 중계동 359-14 원광빌딩 201호",
+    "phone": "02-6395-8008",
+    "openingHours": "11:00~22:00",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6508756,
+      "lng": 127.0760152
+    },
+    "id": 272
+  },
+  {
+    "title": "서울 중구 충무로점",
+    "address": "서울특별시 중구 퇴계로 210",
+    "phone": "02-2285-5516",
+    "openingHours": "10:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5612311,
+      "lng": 126.9950494
+    },
+    "id": 276
+  },
+  {
+    "title": "서울 중구 동대문점",
+    "address": "서울특별시 중구 을지로 254(을지로6가)",
+    "phone": "02-2276-0992",
+    "openingHours": "11:00~25:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5659801,
+      "lng": 127.0062965
+    },
+    "id": 282
+  },
+  {
+    "title": "서울 강동 명일점",
+    "address": "서울특별시 강동구 명일동 47-16",
+    "phone": "02- 428-2586",
+    "openingHours": "11:00~22:30",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5530617,
+      "lng": 127.1555166
+    },
+    "id": 283
+  },
+  {
+    "title": "서울 도봉 쌍문점",
+    "address": "서울특별시 도봉구 창동655-11",
+    "phone": "02-991-0077",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6466943,
+      "lng": 127.033968
+    },
+    "id": 285
+  },
+  {
+    "title": "서울 동대문 장안점",
+    "address": "서울특별시 동대문구 답십리로 300, 2층 201호(장안동)",
+    "phone": "02-2214-7781",
+    "openingHours": "10:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5718201,
+      "lng": 127.0719024
+    },
+    "id": 286
+  },
+  {
+    "title": "서울 강서 발산점",
+    "address": "서울특별시 강서구 강서구강서로 380 (등촌동,세민홈프라자)2층",
+    "phone": "02-2658-2212",
+    "openingHours": "10:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5594702,
+      "lng": 126.8388699
+    },
+    "id": 290
+  },
+  {
+    "title": "서울 중랑 상봉점",
+    "address": "서울특별시 중랑구 상봉동 130-1 2층",
+    "phone": "02-6380-0707",
+    "openingHours": "11:00~23:00, 주말  11:00~24:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.593494,
+      "lng": 127.0756613
+    },
+    "id": 326
+  },
+  {
+    "title": "서울 동대문 회기점",
+    "address": "서울특별시 동대문구 회기로 193(휘경동 2층)",
+    "phone": "02-960-4342",
+    "openingHours": "11:00~23:30 (주문마감 23:00) / 매주 화 정기휴무",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5901831,
+      "lng": 127.0574357
+    },
+    "id": 331
+  },
+  {
+    "title": "서울 강서 방화점",
+    "address": "서울특별시 강서구 금낭화로145 2층 208~215(에어뷰21-1 오피스텔)",
+    "phone": "02-2064-2825",
+    "openingHours": "10:00~22:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5783126,
+      "lng": 126.8128129
+    },
+    "id": 332
+  },
+  {
+    "title": "서울 송파 석촌호수동호점",
+    "address": "서울특별시 송파구 석촌호수로 278 여흥레이크빌 1층",
+    "phone": "02-3432-7555",
+    "openingHours": "10:00~23:00 (주문 마감시간 22:30)",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.510549,
+      "lng": 127.106559
+    },
+    "id": 333
+  },
+  {
+    "title": "서울 성북 성신여대점",
+    "address": "서울특별시 성북구 동선동 1가 26.  2,3층",
+    "phone": "070-4127-9230",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5912816,
+      "lng": 127.0180162
+    },
+    "id": 340
+  },
+  {
+    "title": "서울 구로 지밸리점",
+    "address": "서울특별시 구로구 디지털로 300, 1층, 107호",
+    "phone": "02-6344-3959",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4849677,
+      "lng": 126.8965086
+    },
+    "id": 349
+  },
+  {
+    "title": "서울 서초 교대역점",
+    "address": "서울특별시 서초구 서초동 1659-13 로얄빌딩 2층",
+    "phone": "02-522-8018",
+    "openingHours": "10:30~23:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4931844,
+      "lng": 127.0159572
+    },
+    "id": 362
+  },
+  {
+    "title": "서울 마포 홍대입구역점",
+    "address": "서울특별시 마포구 동교동 162-3 2층",
+    "phone": "02-323-3287",
+    "openingHours": "11:00~22:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5553752,
+      "lng": 126.9227125
+    },
+    "id": 365
+  },
+  {
+    "title": "서울 강동 둔촌역점",
+    "address": "서울특별시 강동구 양재대로 1335 동부빌딩 2층",
+    "phone": "02-6403-1300",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5255782960195,
+      "lng": 127.134903109178
+    },
+    "id": 562
+  },
+  {
+    "title": "서울 송파 가락시장역점",
+    "address": "서울특별시 송파구 중대로 109,2층",
+    "phone": "02-430-0555",
+    "openingHours": "10:00~22:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4938297,
+      "lng": 127.1205052
+    },
+    "id": 378
+  },
+  {
+    "title": "서울 강서 가양점",
+    "address": "서울특별시 강서구 동촌동 628-11 청산빌딩 2층",
+    "phone": "02-3665-1850",
+    "openingHours": "11:00~23:00 (주문마감 22:40)",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5603931,
+      "lng": 126.8559744
+    },
+    "id": 388
+  },
+  {
+    "title": "서울 금천 시흥사거리점",
+    "address": "서울특별시 금천구 시흥대로 229, 2층",
+    "phone": "0507-1427-7355",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4541276,
+      "lng": 126.9003779
+    },
+    "id": 390
+  },
+  {
+    "title": "서울 노원 수락산역점",
+    "address": "서울특별시 노원구 상계1동 1119-4  2층",
+    "phone": "02-938-6442",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.676907,
+      "lng": 127.0556963
+    },
+    "id": 398
+  },
+  {
+    "title": "서울 도봉 창동역점",
+    "address": "서울특별시 도봉구 노해로63길 79, 2층 206호",
+    "phone": "02-998-1688",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.6530884876081,
+      "lng": 127.046291895459
+    },
+    "id": 400
+  },
+  {
+    "title": "서울 서초 강남뉴코아점",
+    "address": "서울특별시 서초구 잠원로 51(잠원동 70-2) 지하 1층 설빙",
+    "phone": "02-530-5641",
+    "openingHours": "10:00~22:00",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.509464,
+      "lng": 127.007324
+    },
+    "id": 415
+  },
+  {
+    "title": "서울 은평 구파발역점",
+    "address": "서울특별시 은평구 진관2로 29-21, 드림스퀘어 2층 207호(진관동)",
+    "phone": "070-7818-9991",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.635742101654195,
+      "lng": 126.9193480969161
+    },
+    "id": 431
+  },
+  {
+    "title": "서울 구로 고척점",
+    "address": "서울특별시 구로구 경서로 81, 리케이빌딩 1층",
+    "phone": "070-4177-0120",
+    "openingHours": "매주 화요일 휴무",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.504135452033395,
+      "lng": 126.86065749515967
+    },
+    "id": 436
+  },
+  {
+    "title": "서울 강서 마곡나루점",
+    "address": "서울특별시 강서구 마곡중앙5로 6, 2층 235호(마곡동, 마곡나루역보타닉푸르지오시티)",
+    "phone": "070-7537-0411",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.56729683810177,
+      "lng": 126.82735723852197
+    },
+    "id": 443
+  },
+  {
+    "title": "서울 강남 선릉점",
+    "address": "서울특별시 강남구 테헤란로 52길 17, 2층 (역삼동 ES타워)",
+    "phone": "02-564-9192",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.50300874610303,
+      "lng": 127.04815989312239
+    },
+    "id": 445
+  },
+  {
+    "title": "서울 서대문 명지대점",
+    "address": "서울특별시 서대문구 남가좌동 369-10 DMC아이파크상가 100동 B208호",
+    "phone": "추후 등록예정",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.57805531780944,
+      "lng": 126.92101911030278
+    },
+    "id": 466
+  },
+  {
+    "title": "서울 광진 구의점",
+    "address": "서울특별시 광진구 아차산로 479 1층(구의동,지민빌딩)",
+    "phone": "추후 예정",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.54081404936071,
+      "lng": 127.09484435808909
+    },
+    "id": 468
+  },
+  {
+    "title": "서울 강남 대치점",
+    "address": "서울특별시 강남구 선릉로62길 33 지상1층(대치동,장성빌딩)",
+    "phone": "-",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.49800025782048,
+      "lng": 127.05507681274058
+    },
+    "id": 474
+  },
+  {
+    "title": "서울 은평 응암역점",
+    "address": "서울특별시 은평구 은평로 64, 2층(신사동)",
+    "phone": "02-304-2029",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.598722558086244,
+      "lng": 126.91484372644155
+    },
+    "id": 484
+  },
+  {
+    "title": "서울 서초 양재역점",
+    "address": "서울특별시 서초구 서운로6길 17, 1층(서초동)",
+    "phone": "02-581-9192",
+    "openingHours": "11:00~22:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.485986740405,
+      "lng": 127.03042627928
+    },
+    "id": 515
+  },
+  {
+    "title": "롯데월드점",
+    "address": "서울특별시 송파구 올림픽로 240, 롯데월드 어드벤처 1층",
+    "phone": "02-2143-1243",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.511311627627,
+      "lng": 127.0981411642445
+    },
+    "id": 516
+  },
+  {
+    "title": "서울 강동 천호로데오점",
+    "address": "서울특별시 강동구 천호동 454-13 2층",
+    "phone": "02-488-5582",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5383184968784,
+      "lng": 127.125963992595
+    },
+    "id": 555
+  },
+  {
+    "title": "서울 서초 남부터미널점",
+    "address": "서울특별시 서초구 효령로 264, 2층(서초동)",
+    "phone": "02-582-2766",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.48418699863435,
+      "lng": 127.01313123625525
+    },
+    "id": 528
+  },
+  {
+    "title": "서울 노원 광운대점",
+    "address": "서울특별시 노원구 광운로 25, 2층",
+    "phone": "02-6013-3139",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.620068411795,
+      "lng": 127.05820918242
+    },
+    "id": 533
+  },
+  {
+    "title": "서울 송파 신천역점",
+    "address": "서울특별시 송파구 백제고분로9길 47(잠실동)",
+    "phone": "070-7562-3091",
+    "openingHours": "PM12:00 ~ PM11:30",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5101108831248,
+      "lng": 127.084299542858
+    },
+    "id": 535
+  },
+  {
+    "title": "서울 노원 과기대점",
+    "address": "서울특별시 노원구 동일로 192길 88,오성빌딩 2층 201호",
+    "phone": "02-6052-1300",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6273390359903,
+      "lng": 127.077591215101
+    },
+    "id": 540
+  },
+  {
+    "title": "서울 구로 오류동역점",
+    "address": "서울특별시 구로구 경인로 20길 10, 2층",
+    "phone": "02-3666-0397",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4953128749348,
+      "lng": 126.843693613741
+    },
+    "id": 541
+  },
+  {
+    "title": "서울 서대문 홍제역점",
+    "address": "서울특별시 서대문구 홍제동 172-11 2층",
+    "phone": "02-6406-3236",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5879397596809,
+      "lng": 126.944650259399
+    },
+    "id": 545
+  },
+  {
+    "title": "서울 광진 세종대점",
+    "address": "서울특별시 광진구 광나루로 382,2층",
+    "phone": "070-7722-0840",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5474599984908,
+      "lng": 127.072065060154
+    },
+    "id": 549
+  },
+  {
+    "title": "서울 중랑 묵동점",
+    "address": "서울특별시 중랑구 묵동 234-14",
+    "phone": "02-949-7767",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6149144780065,
+      "lng": 127.075557910928
+    },
+    "id": 556
+  },
+  {
+    "title": "서울 노원 상계역점",
+    "address": "서울특별시 노원구 덕릉로 87길 21, 2층",
+    "phone": "02-935-3850",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6607717528323,
+      "lng": 127.074519426429
+    },
+    "id": 559
+  },
+  {
+    "title": "서울 송파 거여역점",
+    "address": "서울특별시 송파구 오금로 507, 거여빌딩 201호",
+    "phone": "02-404-3343",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4932343921124,
+      "lng": 127.145182400016
+    },
+    "id": 585
+  },
+  {
+    "title": "서울 강남 일원역점",
+    "address": "서울특별시 강남구 일원로 115,111호",
+    "phone": "02-2226-7476",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4840224010593,
+      "lng": 127.084459720088
+    },
+    "id": 588
+  },
+  {
+    "title": "서울 강남 가로수길점",
+    "address": "서울특별시 강남구 압구정로 10길 36 ,2층",
+    "phone": "070-8283-7733",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5212556909495,
+      "lng": 127.021937011422
+    },
+    "id": 601
+  },
+  {
+    "title": "서울 강남 세곡점",
+    "address": "서울특별시 강남구 헌릉로 569, 강남리더스프라자 204호",
+    "phone": "02-2226-6787",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4657580150675,
+      "lng": 127.101226214382
+    },
+    "id": 604
+  },
+  {
+    "title": "서울 마포 상암점",
+    "address": "서울특별시 마포구 월드컵북로 396 누리꿈스퀘어 R200호",
+    "phone": "02-2132-8110",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5794283422818,
+      "lng": 126.889782954548
+    },
+    "id": 606
+  },
+  {
+    "title": "서울 영등포 당산점",
+    "address": "서울특별시 영등포구 당산동5가 33-1(한강포스빌) 2층",
+    "phone": "02-2679-3690",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.534964308561,
+      "lng": 126.899248404984
+    },
+    "id": 645
+  },
+  {
+    "title": "서울 도봉 방학점",
+    "address": "서울특별시 도봉구 방학로 165, 2층",
+    "phone": "02-6014-2222",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.662205526866,
+      "lng": 127.033811074077
+    },
+    "id": 659
+  },
+  {
+    "title": "서울 중랑 망우점",
+    "address": "서울특별시 중랑구 망우로 439,2층",
+    "phone": "031-293-6028",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.6002104892021,
+      "lng": 127.100791272803
+    },
+    "id": 662
+  },
+  {
+    "title": "서울 송파헬리오시티점",
+    "address": "서울특별시 송파구 가락로 12길 4, 2층",
+    "phone": "02-413-2514",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.4997944818033,
+      "lng": 127.105074204186
+    },
+    "id": 669
+  },
+  {
+    "title": "서울 마포 망원점",
+    "address": "서울특별시 마포구 월드컵로 87, 2층",
+    "phone": "02-323-5200",
+    "isDeliveryAvailable": false,
+    "location": {
+      "lat": 37.5564742974241,
+      "lng": 126.909240634072
+    },
+    "id": 683
+  },
+  {
+    "title": "서울 중랑 사가정역점",
+    "address": "서울특별시 중랑구 사가정로51길 38, 2층(면목동)",
+    "phone": "02-491-2220",
+    "openingHours": "-",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.582518477636,
+      "lng": 127.08812636198
+    },
+    "id": 697
+  },
+  {
+    "title": "서울 중구 명동2호점",
+    "address": "서울특별시 중구 명동2가 4-2 2층",
+    "phone": "02-774-7995",
+    "openingHours": "10:00~22:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5629366709066,
+      "lng": 126.98581354454
+    },
+    "id": 701
+  },
+  {
+    "title": "서울 용산 한남점",
+    "address": "서울특별시 용산구 대사관로 71 (한남동) 2층",
+    "phone": "02-790-1220",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5334010992212,
+      "lng": 127.006011243289
+    },
+    "id": 702
+  },
+  {
+    "title": "서울 구로 구로구청점",
+    "address": "서울특별시 구로구 가마산로271, 2층 203호",
+    "phone": "02-6954-2209",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4963996027511,
+      "lng": 126.890291049446
+    },
+    "id": 719
+  },
+  {
+    "title": "서울 연희점",
+    "address": "서울특별시 서대문구 연희맛로 26, 2층(연희동, 연희시그니처 빌딩)",
+    "phone": "070-8807-5968",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.567062961529,
+      "lng": 126.93028129608
+    },
+    "id": 721
+  },
+  {
+    "title": "서울 숭실대입구역점",
+    "address": "서울특별시 동작구 상도로 358 2층",
+    "phone": "070-7760-1053",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.4966364970878,
+      "lng": 126.95291012501
+    },
+    "id": 723
+  },
+  {
+    "title": "신정네거리역점",
+    "address": "서울특별시 양천구 중앙로 273, 2층(신정동)",
+    "phone": "02-2606-6992",
+    "openingHours": "11:00~22:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5206724116706,
+      "lng": 126.852351022787
+    },
+    "id": 733
+  },
+  {
+    "title": "서울 동대문구 청량리점",
+    "address": "서울특별시 동대문구 답십리로1길 10, 202호, 203호",
+    "phone": "02-966-4371",
+    "openingHours": "11:00~22:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.578710208773,
+      "lng": 127.04364087973
+    },
+    "id": 734
+  },
+  {
+    "title": "서울 종로 경복궁역점",
+    "address": "서울특별시 종로구 자하문로 21, 2층",
+    "phone": "02-3210-0851",
+    "openingHours": "10:00~22:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.5779823533768,
+      "lng": 126.971609494471
+    },
+    "id": 735
+  },
+  {
+    "title": "서울 이대점",
+    "address": "서울특별시 서대문구 이화여대길43(대현동) 3층",
+    "phone": "070-4125-3735",
+    "openingHours": "11:00~23:00",
+    "isDeliveryAvailable": true,
+    "location": {
+      "lat": 37.558838554890,
+      "lng": 126.94548067956
+    },
+    "id": 753
+  }
+]

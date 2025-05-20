@@ -1,0 +1,86 @@
+/* 원래 media query 안에 있던 스타일들 모두 바깥으로 이동 */
+.container.brand {
+  background: #fffef0;
+}
+
+.container .contentArea {
+  width: 1380px;
+  margin: 0 auto;
+  padding: 105px 0px;
+}
+
+.privacyWrap {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.privacy-module__iFJ-pG__privacyWrap {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.privacyWrap .title {
+  font-family: "Sandoll GyeokdongGL2";
+  font-size: 45px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  color: #42120e;
+}
+
+.privacyWrap .select {
+  border: 2px solid #a68f86;
+  border-radius: 0;
+  width: 320px;
+  height: 54px;
+  padding: 0 40px 0 20px;
+  text-align: left;
+  background: #ffffff calc(100% - 22px) center;
+  font-size: 20px;
+  font-weight: 500;
+  appearance: none;
+}
+
+.privacyWrap .privacyArea {
+  margin-top: 30px;
+  font-size: 22px;
+  line-height: 1.7;
+  color: #121212;
+}
+
+.privacyWrap .privacyArea .stitle {
+  font-weight: bold;
+}
+
+.privacyWrap .privacyArea table {
+  border-collapse: collapse;
+  border: 1px solid #c7c6bc;
+  width: auto;
+  table-layout: fixed;
+  min-width: 622px;
+  margin: 20px 0;
+  border-top: 1px solid #c7c6bc;
+  border-left: 1px solid #c7c6bc;
+}
+
+.privacyWrap .privacyArea table th,
+.privacyWrap .privacyArea table td {
+  padding: 8px 20px;
+  text-align: center;
+  border-right: 1px solid #c7c6bc;
+  border-bottom: 1px solid #c7c6bc;
+  margin: 0px;
+}
+
+.privacyWrap .privacyArea table th:last-child,
+.privacyWrap .privacyArea table td:last-child {
+  border-right: none;
+}
+
+.privacyWrap .privacyArea table tr:last-child th,
+.privacyWrap .privacyArea table tr:last-child td {
+  border-bottom: none;
+}
+
+.privacyWrap .privacyArea .tal td {
+  text-align: left;
+}
